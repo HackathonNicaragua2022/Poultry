@@ -14,3 +14,6 @@ Tales herramientas se pueden enumeras de la siguiente manera:
 
 > La metodología del negocio, es vender una cuenta a nivel empresarial con pagos mensuales o anuales, para el uso de todas estas características.
 Algunos aspectos podrían comprarse por separado, lo que incrementaría las utilidades de nosotros como empresa.
+
+> Se estan haciendo commit a la rama AndroidApp
+> Se estan haciendo commit a la rama AspApp
