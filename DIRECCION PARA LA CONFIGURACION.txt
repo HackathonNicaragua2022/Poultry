@@ -1,0 +1,20 @@
+comando en cdm sin administrador
+
+
+"C:\Program Files\IIS Express\iisexpress.exe" /path:c:\windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles /vpath:"/asp.netwebadminfiles" /port:8089 /clr:4.0 /ntlm
+
+
+
+
+
+
+http://localhost:8089/asp.netwebadminfiles/default.aspx?applicationPhysicalPath=C:\Users\CBSHOP\Documents\visual%20studio%202013\Projects\ayosa\&applicationUrl=/
+
+
+
+
+
+
+
+
+https://www.viale.mx/como-usar-la-herramienta-de-configuracion-de-asp-net-sin-visual-web-developer-2010/

@@ -1,0 +1,51 @@
+c:\Users\CBSHOP\documents\visual studio 2013\Projects\ayosa\accesoDatos\bin\Debug\accesoDatos.dll
+c:\Users\CBSHOP\documents\visual studio 2013\Projects\ayosa\accesoDatos\bin\Debug\accesoDatos.pdb
+c:\Users\CBSHOP\documents\visual studio 2013\Projects\ayosa\accesoDatos\obj\Debug\accesoDatos.csprojResolveAssemblyReference.cache
+c:\Users\CBSHOP\documents\visual studio 2013\Projects\ayosa\accesoDatos\obj\Debug\accesoDatos.dll
+c:\Users\CBSHOP\documents\visual studio 2013\Projects\ayosa\accesoDatos\obj\Debug\accesoDatos.pdb
+c:\Users\CBSHOP\documents\visual studio 2013\Projects\ayosa\accesoDatos\bin\Debug\accesoDatos.dll.config
+C:\Users\CBSHOP\Desktop\Ayema de Oro\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.dll.config
+C:\Users\CBSHOP\Desktop\Ayema de Oro\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\CBSHOP\Desktop\Ayema de Oro\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\CBSHOP\Desktop\Ayema de Oro\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\CBSHOP\Desktop\Ayema de Oro\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.dll.config
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.dll.config
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.csprojResolveAssemblyReference.cache
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.dll.config
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\accesoDatos.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\ultil.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\itextsharp.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\TC_ConsumoWEB_VB.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\ultil.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\itextsharp.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\TC_ConsumoWEB_VB.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\TC_ConsumoWEB_VB.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\bin\Debug\BouncyCastle.Crypto.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.csprojResolveAssemblyReference.cache
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\accesoDatos\obj\Debug\accesoDatos.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\accesoDatos.dll.config
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\accesoDatos.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\accesoDatos.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\ultil.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\itextsharp.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\TC_ConsumoWEB_VB.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\BouncyCastle.Crypto.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\ultil.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\itextsharp.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\bin\Debug\BouncyCastle.Crypto.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\obj\Debug\accesoDatos.csprojResolveAssemblyReference.cache
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\obj\Debug\accesoDatos.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\accesoDatos\obj\Debug\accesoDatos.pdb

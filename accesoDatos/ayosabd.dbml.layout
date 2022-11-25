@@ -1,0 +1,1795 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 33, 135.875" name="ayosabd">
+  <DataContextMoniker Name="/ayosabdDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6a084c6e-bf46-4801-bbd2-1510ebc46803" absoluteBounds="0.75, 72.125, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_Applications" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cb759087-e770-4afb-84c1-e0155f82e397" absoluteBounds="0.765, 72.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f2998d30-061d-4f5e-90ae-97607a85ad52" absoluteBounds="15.75, 83.875, 2, 5.0400211588541595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_ViajesRemisionGranja" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d2edf1bd-6a57-42d7-8065-f41c98d463f0" absoluteBounds="15.765, 84.335, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cb42eccd-ac99-4d4a-8f4c-0c670c08a037" absoluteBounds="12.25, 61.875, 2, 4.8477197265624952">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_Membership" />
+      <nestedChildShapes>
+        <elementListCompartment Id="82110251-1668-4fde-8aec-96d94736b583" absoluteBounds="12.265, 62.335, 1.9700000000000002, 4.2877197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="19f44dfe-0f2e-44e4-b456-fc60fd62932c" absoluteBounds="3.5, 64.375, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_Paths" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e8380ff4-44ac-4ae7-b007-8e28bbae5c1b" absoluteBounds="3.515, 64.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f74c2531-ea93-4308-9c56-0f30a1327b05" absoluteBounds="6.25, 64.375, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_PersonalizationAllUsers" />
+      <nestedChildShapes>
+        <elementListCompartment Id="45cf253e-b8df-4957-b0e6-196b2d38b06f" absoluteBounds="6.265, 64.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ec43d83e-f181-4468-934d-b1ea8c02931d" absoluteBounds="6.25, 69.5, 2, 1.7708968098958451">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_PersonalizationPerUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="60250cb6-1b0b-4578-98dd-b17c78267401" absoluteBounds="6.265, 69.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0e3036a7-a607-4c93-ac83-aab63bfaa27a" absoluteBounds="6.25, 73.5, 2, 1.7708968098958451">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_Profile" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a195ab89-3153-4573-b962-1c16c2dec906" absoluteBounds="6.265, 73.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ae57edc0-644d-485c-8d1b-259d591594b0" absoluteBounds="3.5, 66.625, 2, 1.7708968098958451">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_Roles" />
+      <nestedChildShapes>
+        <elementListCompartment Id="55d71d62-3d9f-4fb7-8806-29f90b758fc1" absoluteBounds="3.515, 67.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e2b5c795-f5cf-4d16-82ed-8c241d0301f7" absoluteBounds="0.75, 2.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_SchemaVersions" />
+      <nestedChildShapes>
+        <elementListCompartment Id="45f44c87-8552-4247-9b9b-cbae0b442c5f" absoluteBounds="0.765, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" absoluteBounds="3.5, 74.25, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_Users" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3a83e7f5-6035-4c52-b959-2ff48f013d55" absoluteBounds="3.515, 74.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="880ad704-7e01-473e-9c20-7223aeec3805" absoluteBounds="9.25, 71, 2, 1.1939925130208451">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_UsersInRoles" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7eb06c7d-c992-4f84-8634-ab0c517b6d37" absoluteBounds="9.265, 71.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f28b72b-67f6-46ef-8a5a-6f47d7ffb102" absoluteBounds="11.75, 8.125, 2, 3.6939111328124987">
+      <DataClassMoniker Name="/ayosabdDataContext/aspnet_WebEvent_Events" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8b7b6155-abb9-48ec-b76c-e254ceb6c224" absoluteBounds="11.765, 8.585, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f2b869f3-6363-4cfe-9b99-ff63b8cd05ae" absoluteBounds="12.5, 84.875, 2, 1.1939925130208451">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Area" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ab9ff00e-03da-410b-9f2c-a9c9f6a8acb7" absoluteBounds="12.515, 85.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="88ce82d5-ed24-4257-ba35-e3b9af6e1533" absoluteBounds="12.5, 94.75, 2, 1.1939925130208451">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Cargo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="40276abd-304c-47cc-b139-006bf5022619" absoluteBounds="12.515, 95.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="882b1f4a-f3ad-4172-8c74-e7873e0ca442" absoluteBounds="9.75, 57.25, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_CategoriaInsumosGranjaEngorde" />
+      <nestedChildShapes>
+        <elementListCompartment Id="652aad7e-f11e-47ee-a170-1bc854b1074c" absoluteBounds="9.765, 57.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="62754ad9-7e78-44a2-a263-49111889ab9b" absoluteBounds="9.75, 52.875, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_CategoriaProducto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="89e36153-b40e-4500-a131-e4a120897b84" absoluteBounds="9.765, 53.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5016bfbf-fd7d-41ca-a266-dc28a41ceb77" absoluteBounds="6.75, 47.625, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Cedes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6aa3e7c2-9706-46ef-b42c-ac67bb96ad1e" absoluteBounds="6.765, 48.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a505dc2e-fd63-4186-8419-d9ec7fcd5278" absoluteBounds="3.5, 5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_ClasificacionHuevo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9a78448-f34c-41f2-ad9b-fb6d3c5485ed" absoluteBounds="3.515, 5.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="700dafac-e277-4de4-bb7c-22d98f265b79" absoluteBounds="3.5, 14.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Clientes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9999a387-f4e3-4954-8f94-71595a1f121b" absoluteBounds="3.515, 15.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f5f54256-ccd3-4f10-8605-c63bd08e22af" absoluteBounds="6.75, 45.625, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Combustible" />
+      <nestedChildShapes>
+        <elementListCompartment Id="91d1ca95-31f0-4229-834c-ca63056fd38f" absoluteBounds="6.765, 46.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c592bb91-a6c2-44dc-8569-8a84c50929c2" absoluteBounds="3.5, 77.75, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Comedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e5b95797-cf08-45fd-9520-dc18b4f124e7" absoluteBounds="3.515, 78.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7d26c154-4642-4649-ae2e-7576ac9d332e" absoluteBounds="6.25, 20.625, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Jaulas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0e168b86-ab81-473a-8b64-9edf18385e3d" absoluteBounds="6.265, 21.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="629b470b-5921-46cc-bc30-338f0fce9c8d" absoluteBounds="6.75, 49.75, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_MarcaModeloCarros" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ef3e6a2e-0def-44bb-b150-25cc063c724b" absoluteBounds="6.765, 50.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9098c6ca-4644-4309-b985-adcb49d1b985" absoluteBounds="9.75, 54.75, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_MedidaProducto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb3baee1-84e7-46b7-9231-6ae00bd4d07e" absoluteBounds="9.765, 55.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7eb9d565-00b0-465c-b237-5a40ad2cd5e6" absoluteBounds="11.75, 13.125, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_MenuDia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4a42c9b-9fe2-463c-80c4-f6e5221ff166" absoluteBounds="11.765, 13.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3abae712-4906-440f-b70b-bf5da19856d4" absoluteBounds="9.5, 93.625, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_ProveedorCombustible" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3b604461-c0fc-4356-bbd1-aec2279da7b7" absoluteBounds="9.515, 94.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="580b88d5-a124-442c-805d-575a0bbf5608" absoluteBounds="0.75, 10.25, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Roles" />
+      <nestedChildShapes>
+        <elementListCompartment Id="80da5ccb-7ef0-4068-a1c9-271aa5204167" absoluteBounds="0.765, 10.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9df8b50a-d48e-47b2-b01d-3af0011026b6" absoluteBounds="0.75, 15, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Rutas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="46836641-b412-448f-b829-eb1b7ae14cad" absoluteBounds="0.765, 15.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="300f8e70-6cfd-484e-b610-4f7773ecd0ed" absoluteBounds="14.75, 2.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_TazaCambio" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5bb1adb3-981f-401a-a5e6-a0be8e82c316" absoluteBounds="14.765, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="746690bf-86f7-4564-8526-2ae4a3f3b5a1" absoluteBounds="12.5, 50.75, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_TipoAlimentoAves" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7127aab9-22d6-41a6-b595-a7c3f5fb168a" absoluteBounds="12.515, 51.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="69938615-876a-4703-b29e-14555a2be60d" absoluteBounds="9.5, 64.75, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_TipoDespacho" />
+      <nestedChildShapes>
+        <elementListCompartment Id="14ddcb28-986d-46ce-9ea0-5279d40308f5" absoluteBounds="9.515, 65.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="422873bb-9f33-4d72-96d1-e3ebfeb9dd32" absoluteBounds="6.5, 1.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_TipoHuevo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="400e38d7-65c6-4b72-92a9-f15a52849276" absoluteBounds="6.515, 1.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="10dd82ad-57d6-46d0-89a3-6e08aa3f68cb" absoluteBounds="6.5, 18.25, 2, 1.1939925130208309">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_TipoIngreso" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1baf794a-839b-460a-9ef7-992417353081" absoluteBounds="6.515, 18.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="75711f19-7154-4141-b63a-bae5f2244dfb" absoluteBounds="9.75, 59.125, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_UnidadMedidaInsumoGranja" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ad64bb86-1f7d-4856-856c-fcf57877e715" absoluteBounds="9.765, 59.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="96afcc90-669d-43d5-8990-9ba06cd96d59" absoluteBounds="3.5, 9.625, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Usuarios" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b5d48b4b-63b7-4a32-823b-33a957efe24c" absoluteBounds="3.515, 10.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="612c8533-dc9e-4563-8e58-0acda723de5b" absoluteBounds="1.5, 17.875, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_Vendedores" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4dce2299-e7e1-48e9-a019-fcb3d0f638e1" absoluteBounds="1.5150000000000001, 18.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a5b117c2-ae6b-452d-bcea-63b81f74dede" absoluteBounds="14.75, 5.125, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/ayosabdDataContext/Cat_ZonaJaula" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2b4b51a0-bbfa-48f5-bccd-877eabdbc780" absoluteBounds="14.765, 5.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="041e127f-f370-4b4b-9903-dbb79908c687" absoluteBounds="26.75, 84.75, 2, 2.3478011067708451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_ajusteInventarioInicialLoteGranja" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8a9fa94b-3c48-4202-b0a4-a0721a7f22a5" absoluteBounds="26.765, 85.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="109933a8-ce0d-4a1d-93c7-a144a39f0d70" absoluteBounds="15.25, 78.5, 2, 3.6939111328125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_AplicacionesMedicinas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2576e347-f2dc-47d1-93ba-8205da637dc6" absoluteBounds="15.265, 78.96, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cb2cbafe-5082-4296-adec-871dd318bb8e" absoluteBounds="15.25, 64.5, 2, 3.6939111328125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_AplicacionesTratamientos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="df8af2f2-4cc1-4ec1-9411-d3ff0788df20" absoluteBounds="15.265, 64.96, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fb644486-6d35-41c6-98e0-0b84ed9a6d8c" absoluteBounds="9, 104, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_ArqueoCajaChica_Comedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="87b2a140-51a0-4fb2-9dcc-00fdd60cc99f" absoluteBounds="9.015, 104.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d34ae4f4-da99-4be3-93ef-4e2178bcc1b4" absoluteBounds="21, 63.875, 2, 5.0400211588541524">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_AvesEnInventario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="344d0e02-907d-4579-b528-e8721233db8a" absoluteBounds="21.015, 64.335, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="caa1d4b8-357b-4345-aa8c-71c2b28c0c7e" absoluteBounds="9.25, 18.125, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_BodegaHuevos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f593930e-0e20-47fe-ac4f-582eb4996f7c" absoluteBounds="9.265, 18.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="66d923a2-97f6-4a66-a83d-72be0974953e" absoluteBounds="15.5, 61.25, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Broilers_Raza" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d07837a1-0132-472f-a6e5-57515c72fc4d" absoluteBounds="15.515, 61.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fc7daec7-5183-4340-8a94-aca28e05bcbf" absoluteBounds="6.25, 131.875, 2, 3.6939111328125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_CajaChica_Comedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f095123-8467-43cb-b839-0b30dcc66bb4" absoluteBounds="6.265, 132.335, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f62ed92-86f0-4d9a-982b-44bcbe80dff4" absoluteBounds="12, 16.875, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_CatalogoxCliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="01434d5c-15ac-40fe-942b-17a6fbb519d0" absoluteBounds="12.015, 17.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="373f0088-1313-4c33-939f-885eff6e8905" absoluteBounds="12, 88.5, 2, 4.0785139973958451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_CompraPollos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2814263a-c061-4b8a-a277-21000f883306" absoluteBounds="12.015, 88.96, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="83071c43-267f-4eed-a39d-9c19bf186f50" absoluteBounds="12.25, 74.25, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_CompraProductoComedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ac75413a-c93b-4071-afec-2e7c728efa48" absoluteBounds="12.265, 74.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="20ca799e-2747-4f2f-a24f-c919a6b26019" absoluteBounds="14.75, 7.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Configuraciones" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a63e3b73-9f7e-4c3d-8ea0-7590133bb0f6" absoluteBounds="14.765, 7.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d895efa8-b862-427a-b36a-3c1743c3f518" absoluteBounds="15.25, 69.75, 2, 3.3093082682291595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_ControlAlimenticio" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b9571e75-5e77-4d91-baa7-665434e899c7" absoluteBounds="15.265, 70.21, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bbd75b20-884e-474c-b63c-06daae91ef46" absoluteBounds="12.25, 77.25, 2, 2.3478011067708451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DespachoCombustible" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8956cc38-f842-49a4-bf40-69fe0f75ae4e" absoluteBounds="12.265, 77.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f9257e02-1bc2-475c-b4fe-d8d62b52d452" absoluteBounds="12, 1.625, 2, 2.347801106770834">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleCajias" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ceef51cd-480b-4d22-a44b-d5fbcd5e6363" absoluteBounds="12.015, 2.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="42bcdc26-9da1-4369-bd67-517d9417295d" absoluteBounds="21, 82.25, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleDespacho" />
+      <nestedChildShapes>
+        <elementListCompartment Id="024d5739-0999-4496-8c93-5eca66c82dfa" absoluteBounds="21.015, 82.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="da1a4190-6b6e-402e-9090-88c22c8901c5" absoluteBounds="18, 66.875, 2, 2.9247054036458451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleFactura" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1c27d4f5-4545-4431-b08f-33b8a52b59db" absoluteBounds="18.015, 67.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="223dd1bd-d32b-4fce-9107-70d751d88922" absoluteBounds="18, 79.875, 2, 2.9247054036458451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleFacturaCompra" />
+      <nestedChildShapes>
+        <elementListCompartment Id="78c3c767-c517-43a2-9f19-1bdfd3e1512d" absoluteBounds="18.015, 80.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b9f34de1-0f34-4fff-bfc0-93a4448c0ff8" absoluteBounds="12, 4.875, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleHuevoProcesado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="08ffc162-0011-4682-afb1-12b85f989c1e" absoluteBounds="12.015, 5.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d1973119-e666-49a7-99aa-6f544532fdf3" absoluteBounds="19, 88.375, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleIngreso" />
+      <nestedChildShapes>
+        <elementListCompartment Id="613be8d7-a2c0-4a66-8b47-29c5ab6e4f8d" absoluteBounds="19.015, 88.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7d912ac4-a178-4ced-ad8c-02b711d11989" absoluteBounds="9, 8.375, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleIngreso_HSC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="02633a19-f717-4173-a73e-2eb348f60638" absoluteBounds="9.015, 8.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="25ca5234-53da-4362-8aeb-cdf6427b9a53" absoluteBounds="21, 69.625, 2, 3.5016097005208451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleIngresoLoteEngorde" />
+      <nestedChildShapes>
+        <elementListCompartment Id="efa96c59-911d-4343-9900-6c9abf42c4eb" absoluteBounds="21.015, 70.085, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0a27ec4d-6d1d-4b9a-8349-3db2f9ce9e73" absoluteBounds="9, 14.625, 2, 2.3478011067708362">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleSalida" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d733aafc-c61d-41b3-bf74-eda1c730c11d" absoluteBounds="9.015, 15.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7f781a0d-91f9-45fd-8cfe-08c0c86a0781" absoluteBounds="9, 11.375, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleSalidaHuevoClasificado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8c927c4b-2b38-4d83-b6c5-8096f1fdd195" absoluteBounds="9.015, 11.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3951b389-60d4-4d90-aa0c-ee2cd6cbaa62" absoluteBounds="9, 86.125, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetalleSalidaInv_Comedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2661982b-e59d-440e-9398-7e9e926c9ed2" absoluteBounds="9.015, 86.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e9d97f4a-9252-4e5a-ae97-905f52d93309" absoluteBounds="12.25, 68.25, 2, 2.3478011067708451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_DetallesEsteticos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3439cafd-dbdd-4219-9175-c726215184f5" absoluteBounds="12.265, 68.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4de76895-af98-462c-9ce2-0b126ba0a60d" absoluteBounds="9.25, 74.625, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Devoluciones" />
+      <nestedChildShapes>
+        <elementListCompartment Id="33aea38d-be03-4cd7-ae27-7d42eebd19a6" absoluteBounds="9.265, 75.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="06a20917-eb90-4d1f-b2d6-fd1876eb88ad" absoluteBounds="9, 106.625, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_EgresosCajaChica_Comedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b60c706-a7ce-4463-8aa9-484f6f85ef8a" absoluteBounds="9.015, 107.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="feb76855-3503-426d-bc87-5faff05ee8ea" absoluteBounds="21, 77.875, 2, 2.9247054036458451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_EmpleadoConBeneficio" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6557b21b-f226-4a42-b7d2-559f8d3c6ff9" absoluteBounds="21.015, 78.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e2c94e26-f46f-4452-9349-5d8667c3ecc9" absoluteBounds="14.75, 97.5, 2, 1.1939925130208451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_EstadoRubro" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1fe2edc7-f48d-47be-86c2-b306662bfd35" absoluteBounds="14.765, 97.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="832986ac-b3fd-4762-91d2-7fbba1db79d0" absoluteBounds="9.25, 66.875, 2, 2.9247054036458451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_FacturacionComedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ec73a148-95f6-4897-b74d-66de02c55bf8" absoluteBounds="9.265, 67.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="42845487-5a7d-4fb1-8f2d-b41bbf2d8245" absoluteBounds="18.25, 61.5, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Galera" />
+      <nestedChildShapes>
+        <elementListCompartment Id="13d41059-3978-44ce-8b36-5c7eae7151b5" absoluteBounds="18.265, 61.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="861fd2e0-fee8-413f-9476-b00fe4fba62c" absoluteBounds="9, 89.375, 2, 2.3478011067708451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Galeras" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0cc6e412-37b9-423a-b0b4-cf9f986ba9f3" absoluteBounds="9.015, 89.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="927074f7-87f2-4837-8d29-400d739806af" absoluteBounds="12, 103.625, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_GastosCajaChicaComedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d242fb17-3aa4-4bf7-b078-fb2e3403e3b5" absoluteBounds="12.015, 104.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d21addeb-9297-47ef-b526-9d01397c77b0" absoluteBounds="6.25, 104.125, 2, 2.7324039713541595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Granjas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4502d86d-5bf3-4ec8-8ab1-dd72bb433b4b" absoluteBounds="6.265, 104.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="36994374-aee6-4964-b649-4b5e93958ca6" absoluteBounds="6.25, 4.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_HuevoProcesado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6923745a-1731-4961-96a3-4a88bfa2c9e0" absoluteBounds="6.265, 4.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="42f19d48-09a5-4f92-b891-f7c39a0cd5fb" absoluteBounds="12.25, 80.875, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_IngresoCombustible" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f46b9ad8-705b-4ff2-8c8b-7fb1888409fb" absoluteBounds="12.265, 81.335, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0b58fc1e-8f20-421e-bad4-85c81bd054fb" absoluteBounds="9.25, 4.375, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_IngresoHuevos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3e6a4f55-e82d-49e4-8e9c-2aef65910764" absoluteBounds="9.265, 4.835, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="777f682e-32e6-4cf5-9527-c8485f7293e0" absoluteBounds="6.25, 8.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_IngresoInventario_HSC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="33431012-a844-4f7f-ad3d-c7255d33dc60" absoluteBounds="6.265, 8.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa52e322-dc2b-437e-8dbb-24ce4fadc634" absoluteBounds="12.25, 71.25, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_IngresoLoteEngorde" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a849655c-d166-4788-9772-dd9b0b908938" absoluteBounds="12.265, 71.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="575222bf-a3df-43bd-a4c6-424ed0f96a4c" absoluteBounds="18.25, 72.25, 2, 6.3861311848958451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_IngresoLotes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d2452c90-9554-4f36-a305-f06ba7c2ff0c" absoluteBounds="18.265, 72.71, 1.9700000000000002, 5.826131184895833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8c52b4d3-e9a3-4dd1-b60e-5416d2d1ee34" absoluteBounds="24.5, 80.125, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/ayosabdDataContext/tbl_IngresoPesoVivo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f12a7450-c5de-4214-8160-9521f2710baf" absoluteBounds="24.515, 80.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ad928de5-e768-468e-a490-3d7409d9a32b" absoluteBounds="9, 100.75, 2, 2.3478011067708451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_IngresosCajaChica_Comedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c7b1baec-2b06-4281-879e-f2c220546428" absoluteBounds="9.015, 101.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b2426da2-7a5b-4dbb-9953-a768c7f91b1a" absoluteBounds="12.5, 58.125, 2, 1.5785953776041595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_InsumosGranjaEngorde" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d77ee30a-903a-4d7b-86e0-a3d2f5734f72" absoluteBounds="12.515, 58.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="610d7af5-0c27-4ab6-99b0-d883f5868526" absoluteBounds="15.25, 52.875, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Inventario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6f7fa31e-f7d7-4fe8-8704-8f98467fb3e9" absoluteBounds="15.265, 53.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dd6368cd-2b22-4118-af46-50c9c01d6953" absoluteBounds="9.25, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Inventario_HuevoSinClasificar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e6cccc71-f4fa-4f82-a28e-679b48c3672c" absoluteBounds="9.265, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b7a0e61a-ed4e-46fe-b2f9-63040863cf49" absoluteBounds="18.25, 96.375, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_InventarioCombustible" />
+      <nestedChildShapes>
+        <elementListCompartment Id="15dcca62-01dc-4063-a679-00bd5cf0bdf9" absoluteBounds="18.265, 96.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5ebc3e8b-5bc0-4a84-bbdd-d032a5544d02" absoluteBounds="9.25, 77.5, 2, 1.7708968098958451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_InventarioDanado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="48abbf8e-3e2e-4348-bc2c-0d9498517bc5" absoluteBounds="9.265, 77.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9dc15065-7da5-4912-9daf-a47ce1337116" absoluteBounds="24, 84.125, 2, 3.6939111328125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_InventarioGalera" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4b7edbb9-e6de-4311-be1b-2b67e5b4d532" absoluteBounds="24.015, 84.585, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="94961c74-d94c-48a2-ad33-bc90ca020fc0" absoluteBounds="6.25, 79.5, 2, 1.7708968098958451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_InventarioPerdido" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2062401b-e8f1-4c0c-a6d1-2da38875afc5" absoluteBounds="6.265, 79.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1853daf9-0c61-4ec7-923d-9531d194de9a" absoluteBounds="9.25, 80.5, 2, 1.7708968098958451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_InventarioVencido" />
+      <nestedChildShapes>
+        <elementListCompartment Id="baa413c3-c800-4bd9-94d6-8bf53c0293df" absoluteBounds="9.265, 80.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8059dd8e-41e5-4f28-9bee-2e271322eeae" absoluteBounds="18.5, 85.625, 2, 1.7708968098958451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_JavasEnviadas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="435ad3c0-6441-4b6e-96af-de4b52644ddc" absoluteBounds="18.515, 86.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c0d2c17d-60c1-4fbd-8a16-5c186b61c7f7" absoluteBounds="9.25, 96.5, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/ayosabdDataContext/tbl_Matadero" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8062cb44-393f-4935-aa4e-92560d834bdc" absoluteBounds="9.265, 96.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3cb7a4be-47af-4c4a-9c13-6eb6e836f4ad" absoluteBounds="14.75, 10.125, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/ayosabdDataContext/tbl_MataderoTest" />
+      <nestedChildShapes>
+        <elementListCompartment Id="844544ae-de99-4031-b5ce-2b21b6e7fe9e" absoluteBounds="14.765, 10.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f1595be4-a895-4071-9838-48607e8f786c" absoluteBounds="23.75, 69.125, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_MortalidadDiaria" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4fe26e6c-3be5-42b3-ba2f-a7967c03d6aa" absoluteBounds="23.765, 69.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="32c86a08-6443-4807-85e2-6c4ecf0c4d57" absoluteBounds="27.75, 75.75, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_ParametrosDiarios" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fc6ea8d7-2f9d-4481-8a50-c8ea88fa9ab9" absoluteBounds="27.765, 76.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="87fc96f7-3772-4761-ac54-fc95f3da76f4" absoluteBounds="21, 74.5, 2, 1.7708968098958451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_PersonalEnEntrada" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ad32b126-2112-4074-abb3-81a6efd376e1" absoluteBounds="21.015, 74.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="20a45904-f521-4793-935a-960019afa00b" absoluteBounds="25.25, 89.125, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Pesajes_EPBH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4b560b84-8019-4bc1-821f-973a2d7c5d99" absoluteBounds="25.265, 89.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8279a0e5-927b-410d-b773-5f122984c649" absoluteBounds="24.25, 76.125, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Pesajes_RPBH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c9f4fb3b-69a5-45b2-b253-0afd806e5c11" absoluteBounds="24.265, 76.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="62f52a68-d9b3-4040-9338-5afaa3d44f33" absoluteBounds="22.25, 89.375, 2, 2.7324039713541595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Pesajes_SCF" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7cb73f22-8a7e-49ca-86c3-e2b15eabde78" absoluteBounds="22.265, 89.835, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="52d14724-714d-4427-b5b8-75eb3ef73bbd" absoluteBounds="27.25, 80, 2, 3.5016097005208451">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_PesajesCortes" />
+      <nestedChildShapes>
+        <elementListCompartment Id="84214c05-5373-44d2-9243-dd1f18898d22" absoluteBounds="27.265, 80.46, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="88bae7ea-2f63-40a1-ac0c-9a8fdbaefd75" absoluteBounds="17.5, 92, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_PesoCortes_detalle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="58b74593-bb42-4245-a716-6ee77b9caef6" absoluteBounds="17.515, 92.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0ab09fd5-e6d3-4ef8-8d25-e5804aaca4af" absoluteBounds="14.75, 90, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_PesoFrio_master" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5b87759a-bbf5-4ff9-9015-3f8a7e9ea341" absoluteBounds="14.765, 90.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6bfd3749-b495-4b43-98a8-0a42fb0dd80b" absoluteBounds="14.75, 12.125, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_PesosBascula_test" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e3abb78d-8673-41e4-9bbd-661c762570f8" absoluteBounds="14.765, 12.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e768154-653c-462f-94c5-8a411d911659" absoluteBounds="15.25, 49.75, 2, 2.3478011067708309">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_PreciosInsumosGranja" />
+      <nestedChildShapes>
+        <elementListCompartment Id="60fe7012-5351-443f-8d80-3871f0b3b6da" absoluteBounds="15.265, 50.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="920d3f55-acf4-482c-937b-0de0b4cb65c8" absoluteBounds="12.5, 53.375, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Producto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a7ed046-198d-47b7-9f03-9adecaa54f69" absoluteBounds="12.515, 53.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="291b5f5b-8bc0-4e30-8988-c73ce0936717" absoluteBounds="9.5, 83.375, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Proveedores" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a6db5f33-f76d-405b-8736-4f19a3a08c57" absoluteBounds="9.515, 83.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d024adf8-c576-473a-a0fb-ba50c4f87bf2" absoluteBounds="15.5, 57.625, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/ayosabdDataContext/tbl_ProveedoresAvesEngorde" />
+      <nestedChildShapes>
+        <elementListCompartment Id="48b65475-48a2-4af1-8170-6bbe0458d206" absoluteBounds="15.515, 58.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4b586f9c-181f-43af-a32e-9dfc02a82fe6" absoluteBounds="18.25, 64.375, 2, 1.3862939453125023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_RazaAves" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d99290f3-68b2-4149-8f0c-38963e3ca063" absoluteBounds="18.265, 64.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8558e68d-1e01-4423-b30b-aa902e519012" absoluteBounds="30.75, 79.5, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_RegistroInsumosGranjaLote" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e48d9a5b-f0ac-4f71-b0fa-ca5dfd03b387" absoluteBounds="30.765, 79.96, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="346d7963-ca62-41a5-8283-9eca7d21e394" absoluteBounds="14.75, 99.5, 2, 2.1554996744791595">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_RubrosAve" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8820b921-620b-4d37-9463-4c0f05d5daf8" absoluteBounds="14.765, 99.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="859ff881-fb26-414b-bdad-41bebfab9356" absoluteBounds="6.25, 14.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_SalidaBodega" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97103c80-2aee-4b6d-9c8c-27f2a81dac3f" absoluteBounds="6.265, 14.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="15eeb841-63ae-43a0-82f7-639d9b34c5bd" absoluteBounds="6.25, 86.25, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_SalidaComedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9f985740-119b-4dbe-a7ce-65307e884cf4" absoluteBounds="6.265, 86.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="02dc9566-463c-4985-88a2-b49d2a0f39c7" absoluteBounds="6.25, 11.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_SalidaHuevoClasificado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="74761bf2-94c5-4567-8722-30e15adbdcc5" absoluteBounds="6.265, 11.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f31d8aa-6f83-4b0b-9c9f-b6b5de1274fa" absoluteBounds="14.75, 15.125, 2, 1.3862939453124969">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_SkinApp" />
+      <nestedChildShapes>
+        <elementListCompartment Id="19f52e8e-d1bb-4d54-ae54-b590dc68ee11" absoluteBounds="14.765, 15.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="663b6212-4ae9-445f-8f0d-4a1bef8f1abf" absoluteBounds="15.25, 73.875, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/ayosabdDataContext/tbl_trabajadores" />
+      <nestedChildShapes>
+        <elementListCompartment Id="44445dff-4085-458b-8d05-89c690833255" absoluteBounds="15.265, 74.335, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7c9eebaa-4309-400a-8c65-56f748d0354f" absoluteBounds="6.25, 76.75, 2, 1.1939925130208451">
+      <DataClassMoniker Name="/ayosabdDataContext/tbl_UsuarioEnComedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="86ae360c-919d-47c9-9a80-4bbef8ecd033" absoluteBounds="6.265, 77.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6199cea6-df6e-4d71-8172-6d77c4f9a9af" absoluteBounds="9.5, 47.125, 2, 2.5401025390625023">
+      <DataClassMoniker Name="/ayosabdDataContext/Tbl_Vehiculos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6af5b3b3-f5f9-42df-ad21-4e3cf81438c5" absoluteBounds="9.515, 47.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.75 : 72.125); (1.75 : 63.09375); (5.47916666666667 : 63.09375 : JumpStart); (5.64583333333333 : 63.09375 : JumpEnd); (9.04166666666667 : 63.09375 : JumpStart); (9.20833333333333 : 63.09375 : JumpEnd); (11.7916666666667 : 63.09375 : JumpStart); (11.9583333333333 : 63.09375 : JumpEnd); (11.9791666666667 : 63.09375 : JumpStart); (12.1458333333333 : 63.09375 : JumpEnd); (12.25 : 63.09375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Applications/aspnet_Applications_aspnet_Membership" />
+      <nodes>
+        <classShapeMoniker Id="6a084c6e-bf46-4801-bbd2-1510ebc46803" />
+        <classShapeMoniker Id="cb42eccd-ac99-4d4a-8f4c-0c670c08a037" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.2812525 : 72.125); (2.2812525 : 65.1642976888021); (3.5 : 65.1642976888021)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Applications/aspnet_Applications_aspnet_Paths" />
+      <nodes>
+        <classShapeMoniker Id="6a084c6e-bf46-4801-bbd2-1510ebc46803" />
+        <classShapeMoniker Id="19f44dfe-0f2e-44e4-b456-fc60fd62932c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 65.0681469726563); (6.25 : 65.0681469726563)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Paths/aspnet_Paths_aspnet_PersonalizationAllUsers" />
+      <nodes>
+        <classShapeMoniker Id="19f44dfe-0f2e-44e4-b456-fc60fd62932c" />
+        <classShapeMoniker Id="f74c2531-ea93-4308-9c56-0f30a1327b05" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 65.9523800734675); (5.875 : 66.3273800734675); (5.875 : 70.3854484049479); (6.25 : 70.3854484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Paths/aspnet_Paths_aspnet_PersonalizationPerUser" />
+      <nodes>
+        <classShapeMoniker Id="19f44dfe-0f2e-44e4-b456-fc60fd62932c" />
+        <classShapeMoniker Id="ec43d83e-f181-4468-934d-b1ea8c02931d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.2187475 : 72.125); (1.2187475 : 67.5104484049479); (1.66666666666667 : 67.5104484049479 : JumpStart); (1.83333333333333 : 67.5104484049479 : JumpEnd); (2.19791916666667 : 67.5104484049479 : JumpStart); (2.36458583333333 : 67.5104484049479 : JumpEnd); (3.5 : 67.5104484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Applications/aspnet_Applications_aspnet_Roles" />
+      <nodes>
+        <classShapeMoniker Id="6a084c6e-bf46-4801-bbd2-1510ebc46803" />
+        <classShapeMoniker Id="ae57edc0-644d-485c-8d1b-259d591594b0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 75.3277498372396); (5.72916666666667 : 75.3277498372396 : JumpStart); (5.89583333333333 : 75.3277498372396 : JumpEnd); (6 : 75.3277498372396); (6 : 76.4535953776042); (6.22916666666667 : 76.4535953776042 : JumpStart); (6.39583333333333 : 76.4535953776042 : JumpEnd); (9.04166666666667 : 76.4535953776042 : JumpStart); (9.20833333333333 : 76.4535953776042 : JumpEnd); (11.3229166666667 : 76.4535953776042 : JumpStart); (11.5364583333333 : 76.4535953776042 : JumpEnd); (11.6666666666667 : 76.4535953776042 : JumpStart); (11.8333333333333 : 76.4535953776042 : JumpEnd); (12 : 76.4535953776042); (12 : 76.6554996744792); (12.0416666666667 : 76.6554996744792 : JumpStart); (12.2083333333333 : 76.6554996744792 : JumpEnd); (14.3229166666667 : 76.6554996744792 : JumpStart); (14.4895833333333 : 76.6554996744792 : JumpEnd); (14.7291666666667 : 76.6554996744792 : JumpStart); (14.8958333333333 : 76.6554996744792 : JumpEnd); (15 : 76.6554996744792); (15 : 83.5); (15.9166671666667 : 83.5 : JumpStart); (16.0833338333333 : 83.5 : JumpEnd); (16.75 : 83.5); (16.75 : 83.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_ViajesRemisionGranja" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="f2998d30-061d-4f5e-90ae-97607a85ad52" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 74.7576229186198); (6 : 74.7576229186198); (6 : 73.25); (12 : 73.25); (12 : 67.0977197265625); (13.25 : 67.0977197265625); (13.25 : 66.7227197265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_aspnet_Membership" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="cb42eccd-ac99-4d4a-8f4c-0c670c08a037" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 74.25); (4.5 : 70.8594251074219); (4.91666666666667 : 70.8594251074219 : JumpStart); (5.08333333333333 : 70.8594251074219 : JumpEnd); (5.47916666666667 : 70.8594251074219 : JumpStart); (5.64583333333333 : 70.8594251074219 : JumpEnd); (5.85416666666667 : 70.8594251074219 : JumpStart); (6.02083333333333 : 70.8594251074219 : JumpEnd); (6.25 : 70.8594251074219)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_aspnet_PersonalizationPerUser" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="ec43d83e-f181-4468-934d-b1ea8c02931d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 75.0767598642578); (5.72916666666667 : 75.0767598642578 : JumpStart); (5.89583333333333 : 75.0767598642578 : JumpEnd); (6.25 : 75.0767598642578)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_aspnet_Profile" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="0e3036a7-a607-4c93-ac83-aab63bfaa27a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 72.9142976888021); (3.9687475 : 72.9142976888021); (3.9687475 : 74.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Applications/aspnet_Applications_aspnet_Users" />
+      <nodes>
+        <classShapeMoniker Id="6a084c6e-bf46-4801-bbd2-1510ebc46803" />
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5 : 68.3958968098958); (5 : 71.7636946614583); (9.04166666666667 : 71.7636946614583 : JumpStart); (9.20833333333333 : 71.7636946614583 : JumpEnd); (9.25 : 71.7636946614583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Roles/aspnet_Roles_aspnet_UsersInRoles" />
+      <nodes>
+        <classShapeMoniker Id="ae57edc0-644d-485c-8d1b-259d591594b0" />
+        <classShapeMoniker Id="880ad704-7e01-473e-9c20-7223aeec3805" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.25 : 74.25); (5.25 : 72.0100960872396); (5.47916666666667 : 72.0100960872396 : JumpStart); (5.64583333333333 : 72.0100960872396 : JumpEnd); (9.04166666666667 : 72.0100960872396 : JumpStart); (9.20833333333333 : 72.0100960872396 : JumpEnd); (9.25 : 72.0100960872396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_aspnet_UsersInRoles" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="880ad704-7e01-473e-9c20-7223aeec3805" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 15.7892976888021); (3.04166666666667 : 15.7892976888021 : JumpStart); (3.20833333333333 : 15.7892976888021 : JumpEnd); (3.5 : 15.7892976888021)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Rutas/Cat_Rutas_Cat_Clientes" />
+      <nodes>
+        <classShapeMoniker Id="9df8b50a-d48e-47b2-b01d-3af0011026b6" />
+        <classShapeMoniker Id="700dafac-e277-4de4-bb7c-22d98f265b79" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.8469962565104); (3.5 : 10.8469962565104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Roles/Cat_Roles_Cat_Usuarios" />
+      <nodes>
+        <classShapeMoniker Id="580b88d5-a124-442c-805d-575a0bbf5608" />
+        <classShapeMoniker Id="96afcc90-669d-43d5-8990-9ba06cd96d59" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.125 : 17.875); (2.125 : 16.5785953776042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Vendedores/Cat_Vendedores_Cat_Rutas" />
+      <nodes>
+        <classShapeMoniker Id="612c8533-dc9e-4563-8e58-0acda723de5b" />
+        <classShapeMoniker Id="9df8b50a-d48e-47b2-b01d-3af0011026b6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 75.8978767558594); (5.54166666666667 : 75.8978767558594 : JumpStart); (5.89583333333333 : 75.8978767558594 : JumpEnd); (5.97916666666667 : 75.8978767558594 : JumpStart); (6.14583333333333 : 75.8978767558594 : JumpEnd); (6.25 : 75.8978767558594); (6.25 : 76.3285953776042); (9.04166666666667 : 76.3285953776042 : JumpStart); (9.20833333333333 : 76.3285953776042 : JumpEnd); (11.3229166666667 : 76.3285953776042 : JumpStart); (11.4895833333333 : 76.3285953776042 : JumpEnd); (11.75 : 76.3285953776042); (11.75 : 76.9054996744792); (11.8541666666667 : 76.9054996744792 : JumpStart); (12.2083333333333 : 76.9054996744792 : JumpEnd); (14.4791666666667 : 76.9054996744792 : JumpStart); (14.6458333333333 : 76.9054996744792 : JumpEnd); (14.75 : 76.9054996744792); (14.75 : 77.2420068359375); (14.7916666666667 : 77.2420068359375 : JumpStart); (15.2083333333333 : 77.2420068359375 : JumpEnd); (16.25 : 77.2420068359375); (16.25 : 78.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_AplicacionesMedicinas" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="109933a8-ce0d-4a1d-93c7-a144a39f0d70" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 74.4725594593099); (5.75 : 74.4725594593099); (5.75 : 73); (11.75 : 73); (11.75 : 73.625); (11.9791666666667 : 73.625 : JumpStart); (12.1458333333333 : 73.625 : JumpEnd); (15 : 73.625); (15 : 68.5689111328125); (16.25 : 68.5689111328125); (16.25 : 68.1939111328125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_AplicacionesTratamientos" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="cb2cbafe-5082-4296-adec-871dd318bb8e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 76.3193448283253); (5.50357443490112 : 76.3229192632264 : JumpStart); (5.68392556509888 : 76.5032703934242 : JumpEnd); (5.75357443490112 : 76.5729192632264 : JumpStart); (5.87142556509888 : 76.6907703934242 : JumpEnd); (6.3125 : 77.1318448283253); (6.3125 : 103.625); (7.16666666666667 : 103.625 : JumpStart); (7.33333333333333 : 103.625 : JumpEnd); (7.69791916666667 : 103.625 : JumpStart); (7.86458583333333 : 103.625 : JumpEnd); (8.625 : 103.625); (9 : 104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_ArqueoCajaChica_Comedor" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="fb644486-6d35-41c6-98e0-0b84ed9a6d8c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.57859537760417); (5.875 : 6.95359537760417); (5.875 : 17.75); (8.66666666666667 : 17.75 : JumpStart); (8.83333333333333 : 17.75 : JumpEnd); (8.875 : 17.75); (9.25 : 18.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_ClasificacionHuevo/Cat_ClasificacionHuevo_Tbl_BodegaHuevos" />
+      <nodes>
+        <classShapeMoniker Id="a505dc2e-fd63-4186-8419-d9ec7fcd5278" />
+        <classShapeMoniker Id="caa1d4b8-357b-4345-aa8c-71c2b28c0c7e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.5 : 2.70359537760417); (7.5 : 4.25); (8.75 : 4.25); (8.75 : 19.4263032695313); (9.25 : 19.4263032695313)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_TipoHuevo/Cat_TipoHuevo_Tbl_BodegaHuevos" />
+      <nodes>
+        <classShapeMoniker Id="422873bb-9f33-4d72-96d1-e3ebfeb9dd32" />
+        <classShapeMoniker Id="caa1d4b8-357b-4345-aa8c-71c2b28c0c7e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 131.971922076923); (8.8125 : 131.409422076923); (8.8125 : 105.012851121094); (9 : 105.012851121094)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_CajaChica_Comedor/Tbl_CajaChica_Comedor_Tbl_ArqueoCajaChica_Comedor" />
+      <nodes>
+        <classShapeMoniker Id="fc7daec7-5183-4340-8a94-aca28e05bcbf" />
+        <classShapeMoniker Id="fb644486-6d35-41c6-98e0-0b84ed9a6d8c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.41692307692308 : 76.4054996744792); (5.75357443490112 : 76.7421510324572 : JumpStart); (5.90267556509888 : 76.891252162655 : JumpEnd); (6.125 : 77.1135765975561); (6.125 : 133.721955566406); (6.25 : 133.721955566406)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_CajaChica_Comedor" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="fc7daec7-5183-4340-8a94-aca28e05bcbf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.43230769230769 : 76.4054996744792); (5.56607443490112 : 76.5392664170726 : JumpStart); (5.68392556509888 : 76.6571175472704 : JumpEnd); (5.75357443490112 : 76.7267664170726 : JumpStart); (5.90267556509888 : 76.8758675472704 : JumpEnd); (6.03125 : 77.0044419821715); (6.03125 : 133.721955566406); (6.25 : 133.721955566406)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_CajaChica_Comedor1" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="fc7daec7-5183-4340-8a94-aca28e05bcbf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.53125 : 16.9054996744792); (4.53125 : 17.5224519856771); (5.79166666666667 : 17.5224519856771 : JumpStart); (5.95833333333333 : 17.5224519856771 : JumpEnd); (8.66666666666667 : 17.5224519856771 : JumpStart); (8.83333333333333 : 17.5224519856771 : JumpEnd); (10.1979186666667 : 17.5224519856771 : JumpStart); (10.3645853333333 : 17.5224519856771 : JumpEnd); (12 : 17.5224519856771)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Clientes/Cat_Clientes_Tbl_CatalogoxCliente" />
+      <nodes>
+        <classShapeMoniker Id="700dafac-e277-4de4-bb7c-22d98f265b79" />
+        <classShapeMoniker Id="0f62ed92-86f0-4d9a-982b-44bcbe80dff4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 18.3854484049479); (12 : 18.3854484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_BodegaHuevos/Tbl_BodegaHuevos_Tbl_CatalogoxCliente" />
+      <nodes>
+        <classShapeMoniker Id="caa1d4b8-357b-4345-aa8c-71c2b28c0c7e" />
+        <classShapeMoniker Id="0f62ed92-86f0-4d9a-982b-44bcbe80dff4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14 : 88.7075105794271); (14.1666666666667 : 88.7075105794271 : JumpStart); (14.3333333333333 : 88.7075105794271 : JumpEnd); (15.4166666666667 : 88.7075105794271 : JumpStart); (15.5833333333333 : 88.7075105794271 : JumpEnd); (15.75 : 88.7075105794271)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_CompraPollos/Tbl_CompraPollos_Tbl_ViajesRemisionGranja" />
+      <nodes>
+        <classShapeMoniker Id="373f0088-1313-4c33-939f-885eff6e8905" />
+        <classShapeMoniker Id="f2998d30-061d-4f5e-90ae-97607a85ad52" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 75.6128132965495); (5.75 : 75.6128132965495); (5.75 : 76.5160953776042); (5.80729166666667 : 76.5160953776042 : JumpStart); (6.10034616671676 : 76.5160953776042 : JumpEnd); (9.04166666666667 : 76.5160953776042 : JumpStart); (9.20833333333333 : 76.5160953776042 : JumpEnd); (11.8541666666667 : 76.5160953776042 : JumpStart); (12.0208333333333 : 76.5160953776042 : JumpEnd); (12.125 : 76.5160953776042); (12.125 : 88.125); (13 : 88.125); (13 : 88.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_CompraPollos" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="373f0088-1313-4c33-939f-885eff6e8905" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 76.1270723305539); (5.54166666666667 : 76.1270723305539 : JumpStart); (6.11458333333333 : 76.1270723305539 : JumpEnd); (6.125 : 76.1270723305539); (6.125 : 76.3910953776042); (6.22916666666667 : 76.3910953776042 : JumpStart); (6.39583333333333 : 76.3910953776042 : JumpEnd); (9.04166666666667 : 76.3910953776042 : JumpStart); (9.20833333333333 : 76.3910953776042 : JumpEnd); (11.3229166666667 : 76.3910953776042 : JumpStart); (11.5364583333333 : 76.3910953776042 : JumpEnd); (11.875 : 76.3910953776042); (11.875 : 87.875); (11.9791666666667 : 87.875 : JumpStart); (12.2395833333333 : 87.875 : JumpEnd); (13.531252 : 87.875); (13.531252 : 88.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_CompraPollos1" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="373f0088-1313-4c33-939f-885eff6e8905" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.5 : 61.53125); (12.0625 : 61.53125); (12.0625 : 88.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Broilers_Raza/Tbl_Broilers_Raza_Tbl_CompraPollos" />
+      <nodes>
+        <classShapeMoniker Id="66d923a2-97f6-4a66-a83d-72be0974953e" />
+        <classShapeMoniker Id="373f0088-1313-4c33-939f-885eff6e8905" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.44413261538462 : 76.4054996744792); (4.44413261538462 : 76.9054996744792); (4.61245843589744 : 76.9054996744792 : JumpStart); (4.7791251025641 : 76.9054996744792 : JumpEnd); (5.625 : 76.9054996744792); (5.625 : 75.5208968098958); (5.72916666666667 : 75.5208968098958 : JumpStart); (5.89583333333333 : 75.5208968098958 : JumpEnd); (6.10416666666667 : 75.5208968098958 : JumpStart); (6.27083333333333 : 75.5208968098958 : JumpEnd); (9 : 75.5208968098958); (9 : 74.375); (9.04166666666667 : 74.375 : JumpStart); (9.20833333333333 : 74.375 : JumpEnd); (11.3229166666667 : 74.375 : JumpStart); (11.4895833333333 : 74.375 : JumpEnd); (11.625 : 74.375); (11.625 : 75.3205481888021); (11.9791666666667 : 75.3205481888021 : JumpStart); (12.1458333333333 : 75.3205481888021 : JumpEnd); (12.25 : 75.3205481888021)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_CompraProductoComedor" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="83071c43-267f-4eed-a39d-9c19bf186f50" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 74.9171913914388); (5.72916666666667 : 74.9171913914388 : JumpStart); (5.89583333333333 : 74.9171913914388 : JumpEnd); (6.125 : 74.9171913914388); (6.125 : 73.375); (9.04166666666667 : 73.375 : JumpStart); (9.20833333333333 : 73.375 : JumpEnd); (11.3229166666667 : 73.375 : JumpStart); (11.4895833333333 : 73.375 : JumpEnd); (11.6666666666667 : 73.375 : JumpStart); (11.8333333333333 : 73.375 : JumpEnd); (11.875 : 73.375); (11.875 : 73.75); (11.9791666666667 : 73.75 : JumpStart); (12.1458333333333 : 73.75 : JumpEnd); (14.9791666666667 : 73.75 : JumpStart); (15.1458333333333 : 73.75 : JumpEnd); (16.25 : 73.75); (16.25 : 73.0593082682292)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_ControlAlimenticio" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="d895efa8-b862-427a-b36a-3c1743c3f518" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.5 : 51.9439925130208); (14.875 : 52.3189925130208); (14.875 : 71.4046541341146); (14.9166666666667 : 71.4046541341146 : JumpStart); (15.1458333333333 : 71.4046541341146 : JumpEnd); (15.25 : 71.4046541341146)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_TipoAlimentoAves/Cat_TipoAlimentoAves_Tbl_ControlAlimenticio" />
+      <nodes>
+        <classShapeMoniker Id="746690bf-86f7-4564-8526-2ae4a3f3b5a1" />
+        <classShapeMoniker Id="d895efa8-b862-427a-b36a-3c1743c3f518" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 75.7553450262044); (5.54166666666667 : 75.7553450262044 : JumpStart); (5.83333333333333 : 75.7553450262044 : JumpEnd); (5.875 : 75.7553450262044); (5.875 : 76.5785953776042); (5.9961795000501 : 76.5785953776042 : JumpStart); (6.16284616671676 : 76.5785953776042 : JumpEnd); (8.66666666666667 : 76.5785953776042 : JumpStart); (8.83333333333333 : 76.5785953776042 : JumpEnd); (9.04166666666667 : 76.5785953776042 : JumpStart); (9.20833333333333 : 76.5785953776042 : JumpEnd); (11.3229166666667 : 76.5785953776042 : JumpStart); (11.5364583333333 : 76.5785953776042 : JumpEnd); (11.625 : 76.5785953776042); (11.625 : 76.7804996744792); (11.6666666666667 : 76.7804996744792 : JumpStart); (12.2083333333333 : 76.7804996744792 : JumpEnd); (13.25 : 76.7804996744792); (13.25 : 77.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_DespachoCombustible" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="bbd75b20-884e-474c-b63c-06daae91ef46" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.40625 : 65.9439925130208); (11.40625 : 79.4655989583333); (11.8541666666667 : 79.4655989583333 : JumpStart); (12.2083333333333 : 79.4655989583333 : JumpEnd); (12.25 : 79.4655989583333)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_TipoDespacho/Cat_TipoDespacho_Tbl_DespachoCombustible" />
+      <nodes>
+        <classShapeMoniker Id="69938615-876a-4703-b29e-14555a2be60d" />
+        <classShapeMoniker Id="bbd75b20-884e-474c-b63c-06daae91ef46" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.281252 : 18.125); (10.281252 : 17.2228011067708); (11.5 : 17.2228011067708); (11.5 : 2.79890055338542); (12 : 2.79890055338542)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_BodegaHuevos/Tbl_BodegaHuevos_Tbl_DetalleCajias" />
+      <nodes>
+        <classShapeMoniker Id="caa1d4b8-357b-4345-aa8c-71c2b28c0c7e" />
+        <classShapeMoniker Id="f9257e02-1bc2-475c-b4fe-d8d62b52d452" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.25 : 79.5978011067708); (14.625 : 79.9728011067708); (14.625 : 83.1811027018229); (14.7291666666667 : 83.1811027018229 : JumpStart); (14.8958333333333 : 83.1811027018229 : JumpEnd); (15.1041666666667 : 83.1811027018229 : JumpStart); (15.2708333333333 : 83.1811027018229 : JumpEnd); (15.9166671666667 : 83.1811027018229 : JumpStart); (16.0833338333333 : 83.1811027018229 : JumpEnd); (21 : 83.1811027018229)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_DespachoCombustible/Tbl_DespachoCombustible_Tbl_DetalleDespacho" />
+      <nodes>
+        <classShapeMoniker Id="bbd75b20-884e-474c-b63c-06daae91ef46" />
+        <classShapeMoniker Id="42bcdc26-9da1-4369-bd67-517d9417295d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.25 : 75.3277498372396); (15.125 : 75.3277498372396); (15.125 : 77.4920068359375); (18 : 77.4920068359375); (18 : 78.8861311848958); (18.0416666666667 : 78.8861311848958 : JumpStart); (18.2083333333333 : 78.8861311848958 : JumpEnd); (19 : 78.8861311848958); (19 : 79.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_CompraProductoComedor/Tbl_CompraProductoComedor_Tbl_DetalleFacturaCompra" />
+      <nodes>
+        <classShapeMoniker Id="83071c43-267f-4eed-a39d-9c19bf186f50" />
+        <classShapeMoniker Id="223dd1bd-d32b-4fce-9107-70d751d88922" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 21.3181469726563); (8.875 : 21.3181469726563); (8.875 : 10.7131982421875); (10 : 10.7131982421875); (10 : 10.3381982421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Jaulas/Cat_Jaulas_Tbl_DetalleIngreso_HSC" />
+      <nodes>
+        <classShapeMoniker Id="7d26c154-4642-4649-ae2e-7576ac9d332e" />
+        <classShapeMoniker Id="7d912ac4-a178-4ced-ad8c-02b711d11989" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 2.70238007346755); (8.875 : 3.07738007346755); (8.875 : 8); (8.83333333333333 : 8 : JumpStart); (8.66666666666667 : 8 : JumpEnd); (8.625 : 8); (8.69107443490112 : 8.06607443490112 : JumpStart); (8.80892556509888 : 8.18392556509888 : JumpEnd); (9 : 8.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_TipoHuevo/Cat_TipoHuevo_Tbl_DetalleIngreso_HSC" />
+      <nodes>
+        <classShapeMoniker Id="422873bb-9f33-4d72-96d1-e3ebfeb9dd32" />
+        <classShapeMoniker Id="7d912ac4-a178-4ced-ad8c-02b711d11989" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.7343785 : 18.125); (9.7343785 : 16.9728011067708)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_BodegaHuevos/Tbl_BodegaHuevos_Tbl_DetalleSalida" />
+      <nodes>
+        <classShapeMoniker Id="caa1d4b8-357b-4345-aa8c-71c2b28c0c7e" />
+        <classShapeMoniker Id="0a27ec4d-6d1d-4b9a-8349-3db2f9ce9e73" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.75804568880208); (6 : 5.75804568880208); (6 : 11); (8.66666666666667 : 11 : JumpStart); (8.83333333333333 : 11 : JumpEnd); (10 : 11); (10 : 11.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_ClasificacionHuevo/Cat_ClasificacionHuevo_Tbl_DetalleSalidaHuevoClasificado" />
+      <nodes>
+        <classShapeMoniker Id="a505dc2e-fd63-4186-8419-d9ec7fcd5278" />
+        <classShapeMoniker Id="7f781a0d-91f9-45fd-8cfe-08c0c86a0781" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 74.3300277296549); (5.66666666666667 : 74.3300277296549 : JumpStart); (5.83333333333333 : 74.3300277296549 : JumpEnd); (5.875 : 74.3300277296549); (5.875 : 73.125); (9.04166666666667 : 73.125 : JumpStart); (9.20833333333333 : 73.125 : JumpEnd); (11.3229166666667 : 73.125 : JumpStart); (11.4895833333333 : 73.125 : JumpEnd); (11.6666666666667 : 73.125 : JumpStart); (11.8333333333333 : 73.125 : JumpEnd); (11.875 : 73.125); (11.875 : 70.9728011067708); (11.9166666666667 : 70.9728011067708 : JumpStart); (12.1458333333333 : 70.9728011067708 : JumpEnd); (13.25 : 70.9728011067708); (13.25 : 70.5978011067708)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_DetallesEsteticos" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="e9d97f4a-9252-4e5a-ae97-905f52d93309" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.94745092307692 : 76.4054996744792); (4.94745092307692 : 76.7804996744792); (5.47916666666667 : 76.7804996744792 : JumpStart); (5.93679487179492 : 76.7804996744792 : JumpEnd); (5.9375 : 76.7804996744792); (5.9375 : 75.7093867828776); (5.97916666666667 : 75.7093867828776 : JumpStart); (6.27083333333333 : 75.7093867828776 : JumpEnd); (9.04166666666667 : 75.7093867828776 : JumpStart); (9.20833333333333 : 75.7093867828776 : JumpEnd); (9.25 : 75.7093867828776)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_Devoluciones" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="4de76895-af98-462c-9ce2-0b126ba0a60d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.44769230769231 : 76.4054996744792); (5.56607443490112 : 76.523881801688 : JumpStart); (5.74642556509888 : 76.7042329318858 : JumpEnd); (5.75357443490112 : 76.711381801688 : JumpStart); (5.90267556509888 : 76.8604829318858 : JumpEnd); (5.90625 : 76.8640573667869); (5.90625 : 108.042502755208); (5.94791666666667 : 108.042502755208 : JumpStart); (6.20833333333333 : 108.042502755208 : JumpEnd); (9 : 108.042502755208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_EgresosCajaChica_Comedor" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="06a20917-eb90-4d1f-b2d6-fd1876eb88ad" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 133.753976797175); (10 : 133.753976797175); (10 : 109.165102539063)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_CajaChica_Comedor/Tbl_CajaChica_Comedor_Tbl_EgresosCajaChica_Comedor" />
+      <nodes>
+        <classShapeMoniker Id="fc7daec7-5183-4340-8a94-aca28e05bcbf" />
+        <classShapeMoniker Id="06a20917-eb90-4d1f-b2d6-fd1876eb88ad" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.25 : 66.875); (10.25 : 66.625); (11.75 : 66.625); (11.75 : 68); (11.7916666666667 : 68 : JumpStart); (12.1458333333333 : 68 : JumpEnd); (15.125 : 68); (15.125 : 69.1282055664063); (18 : 69.1282055664063)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_FacturacionComedor/Tbl_FacturacionComedor_Tbl_DetalleFactura" />
+      <nodes>
+        <classShapeMoniker Id="832986ac-b3fd-4762-91d2-7fbba1db79d0" />
+        <classShapeMoniker Id="da1a4190-6b6e-402e-9090-88c22c8901c5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 69.7381659421074); (11.3473244349011 : 69.8354903770085 : JumpStart); (11.4651755650989 : 69.9533415072063 : JumpEnd); (11.6875 : 70.1756659421074); (11.6875 : 74.1875); (11.4651755650989 : 74.4098244349011 : JumpStart); (11.3473244349011 : 74.5276755650989 : JumpEnd); (11.25 : 74.625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_FacturacionComedor/Tbl_FacturacionComedor_Tbl_Devoluciones" />
+      <nodes>
+        <classShapeMoniker Id="832986ac-b3fd-4762-91d2-7fbba1db79d0" />
+        <classShapeMoniker Id="4de76895-af98-462c-9ce2-0b126ba0a60d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 74.3161528461538); (5.50357443490112 : 74.3125784112527 : JumpStart); (5.62142556509888 : 74.1947272810549 : JumpEnd); (5.69107443490112 : 74.1250784112527 : JumpStart); (5.80892556509888 : 74.0072272810549 : JumpEnd); (5.81607443490112 : 74.0000784112527 : JumpStart); (5.93392556509888 : 73.8822272810549 : JumpEnd); (5.96875 : 73.8474028461538); (5.96875 : 68.1562505); (9.04166666666667 : 68.1562505 : JumpStart); (9.20833333333333 : 68.1562505 : JumpEnd); (9.25 : 68.1562505)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_FacturacionComedor" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="832986ac-b3fd-4762-91d2-7fbba1db79d0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 74.2807682307692); (5.50357443490112 : 74.2771937958681 : JumpStart); (5.62142556509888 : 74.1593426656703 : JumpEnd); (5.69107443490112 : 74.0896937958681 : JumpStart); (5.80892556509888 : 73.9718426656703 : JumpEnd); (5.81607443490112 : 73.9646937958681 : JumpStart); (5.93392556509888 : 73.8468426656703 : JumpEnd); (5.9375 : 73.8432682307692); (5.9375 : 68.1562505); (9.04166666666667 : 68.1562505 : JumpStart); (9.20833333333333 : 68.1562505 : JumpEnd); (9.25 : 68.1562505)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_FacturacionComedor1" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="832986ac-b3fd-4762-91d2-7fbba1db79d0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(20.25 : 62.4815991210938); (20.4791666666667 : 62.4815991210938 : JumpStart); (20.7083333333333 : 62.4815991210938 : JumpEnd); (22 : 62.4815991210938); (22 : 63.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Galera/Tbl_Galera_Tbl_AvesEnInventario" />
+      <nodes>
+        <classShapeMoniker Id="42845487-5a7d-4fb1-8f2d-b41bbf2d8245" />
+        <classShapeMoniker Id="d34ae4f4-da99-4be3-93ef-4e2178bcc1b4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10 : 89.375); (10 : 88.5304996744792); (11.25 : 88.5304996744792); (11.25 : 86.3950105794271); (11.6666666666667 : 86.3950105794271 : JumpStart); (11.9583333333333 : 86.3950105794271 : JumpEnd); (11.9791666666667 : 86.3950105794271 : JumpStart); (12.2395833333333 : 86.3950105794271 : JumpEnd); (14.1666666666667 : 86.3950105794271 : JumpStart); (14.3333333333333 : 86.3950105794271 : JumpEnd); (14.8854166666667 : 86.3950105794271 : JumpStart); (15.0520833333333 : 86.3950105794271 : JumpEnd); (15.75 : 86.3950105794271)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Galeras/Tbl_Galeras_Tbl_ViajesRemisionGranja" />
+      <nodes>
+        <classShapeMoniker Id="861fd2e0-fee8-413f-9476-b00fe4fba62c" />
+        <classShapeMoniker Id="f2998d30-061d-4f5e-90ae-97607a85ad52" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.49384615384615 : 76.4054996744792); (5.50357443490112 : 76.4152279555341 : JumpStart); (5.74642556509888 : 76.6580790857319 : JumpEnd); (5.75357443490112 : 76.6652279555341 : JumpStart); (5.90267556509888 : 76.8143290857319 : JumpEnd); (6.171875 : 77.083528520633); (6.171875 : 90.5489005533854); (8.41666666666667 : 90.5489005533854 : JumpStart); (8.58333333333333 : 90.5489005533854 : JumpEnd); (9 : 90.5489005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_Galeras" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="861fd2e0-fee8-413f-9476-b00fe4fba62c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 74.6150911889648); (5.8125 : 74.6150911889648); (5.8125 : 103.25); (13 : 103.25); (13 : 103.625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_GastosCajaChicaComedor" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="927074f7-87f2-4837-8d29-400d739806af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 132.815257129357); (9.91666666666667 : 132.815257129357 : JumpStart); (10.0833333333333 : 132.815257129357 : JumpEnd); (13 : 132.815257129357); (13 : 106.165102539063)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_CajaChica_Comedor/Tbl_CajaChica_Comedor_Tbl_GastosCajaChicaComedor" />
+      <nodes>
+        <classShapeMoniker Id="fc7daec7-5183-4340-8a94-aca28e05bcbf" />
+        <classShapeMoniker Id="927074f7-87f2-4837-8d29-400d739806af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.25 : 104.125); (7.25 : 92.1819075520833); (8.41666666666667 : 92.1819075520833 : JumpStart); (8.58333333333333 : 92.1819075520833 : JumpEnd); (12 : 92.1819075520833)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Granjas/Tbl_Granjas_Tbl_CompraPollos" />
+      <nodes>
+        <classShapeMoniker Id="d21addeb-9297-47ef-b526-9d01397c77b0" />
+        <classShapeMoniker Id="373f0088-1313-4c33-939f-885eff6e8905" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.7812525 : 104.125); (7.7812525 : 91.1671033300781); (8.41666666666667 : 91.1671033300781 : JumpStart); (8.58333333333333 : 91.1671033300781 : JumpEnd); (9 : 91.1671033300781)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Granjas/Tbl_Granjas_Tbl_Galeras" />
+      <nodes>
+        <classShapeMoniker Id="d21addeb-9297-47ef-b526-9d01397c77b0" />
+        <classShapeMoniker Id="861fd2e0-fee8-413f-9476-b00fe4fba62c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.46307692307692 : 76.4054996744792); (5.75357443490112 : 76.6959971863033 : JumpStart); (5.90267556509888 : 76.8450983165011 : JumpEnd); (5.984375 : 76.9267977514022); (5.984375 : 105.491201985677); (6.25 : 105.491201985677)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_Granjas" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="d21addeb-9297-47ef-b526-9d01397c77b0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.25 : 7.23240397135417); (7.25 : 7.54970540364583); (8.66666666666667 : 7.54970540364583 : JumpStart); (8.83333333333333 : 7.54970540364583 : JumpEnd); (11.625 : 7.54970540364583); (11.625 : 5.85659912109375); (12 : 5.85659912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_HuevoProcesado/Tbl_HuevoProcesado_Tbl_DetalleHuevoProcesado" />
+      <nodes>
+        <classShapeMoniker Id="36994374-aee6-4964-b649-4b5e93958ca6" />
+        <classShapeMoniker Id="b9f34de1-0f34-4fff-bfc0-93a4448c0ff8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.19956803320312); (5.85416666666667 : 6.19956803320312 : JumpStart); (6.08333333333333 : 6.19956803320312 : JumpEnd); (6.25 : 6.19956803320312)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_ClasificacionHuevo/Cat_ClasificacionHuevo_Tbl_HuevoProcesado" />
+      <nodes>
+        <classShapeMoniker Id="a505dc2e-fd63-4186-8419-d9ec7fcd5278" />
+        <classShapeMoniker Id="36994374-aee6-4964-b649-4b5e93958ca6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 9.68653746153846); (5.9375 : 9.24903746153846); (5.9375 : 5.12902334440104); (6.25 : 5.12902334440104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Usuarios/Cat_Usuarios_Tbl_HuevoProcesado" />
+      <nodes>
+        <classShapeMoniker Id="96afcc90-669d-43d5-8990-9ba06cd96d59" />
+        <classShapeMoniker Id="36994374-aee6-4964-b649-4b5e93958ca6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.25 : 83.65625); (20.75 : 83.65625); (20.75 : 88.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_IngresoCombustible/Tbl_IngresoCombustible_Tbl_DetalleIngreso" />
+      <nodes>
+        <classShapeMoniker Id="42f19d48-09a5-4f92-b891-f7c39a0cd5fb" />
+        <classShapeMoniker Id="d1973119-e666-49a7-99aa-6f544532fdf3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 75.4555758235677); (5.72916666666667 : 75.4555758235677 : JumpStart); (5.89583333333333 : 75.4555758235677 : JumpEnd); (6.0625 : 75.4555758235677); (6.0625 : 76.2660953776042); (6.22916666666667 : 76.2660953776042 : JumpStart); (6.39583333333333 : 76.2660953776042 : JumpEnd); (9.04166666666667 : 76.2660953776042 : JumpStart); (9.20833333333333 : 76.2660953776042 : JumpEnd); (11.9375 : 76.2660953776042); (11.9375 : 80.5); (11.9791666666667 : 80.5 : JumpStart); (12.1458333333333 : 80.5 : JumpEnd); (13.25 : 80.5); (13.25 : 80.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_IngresoCombustible" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="42f19d48-09a5-4f92-b891-f7c39a0cd5fb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.5 : 93.625); (10.5 : 91.9728011067708); (11.75 : 91.9728011067708); (11.75 : 82.4335034179688); (11.7916666666667 : 82.4335034179688 : JumpStart); (11.9583333333333 : 82.4335034179688 : JumpEnd); (11.9791666666667 : 82.4335034179688 : JumpStart); (12.2395833333333 : 82.4335034179688 : JumpEnd); (12.25 : 82.4335034179688)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_ProveedorCombustible/Cat_ProveedorCombustible_Tbl_IngresoCombustible" />
+      <nodes>
+        <classShapeMoniker Id="3abae712-4906-440f-b70b-bf5da19856d4" />
+        <classShapeMoniker Id="42f19d48-09a5-4f92-b891-f7c39a0cd5fb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 4.375); (11.4410744349011 : 4.18392556509888 : JumpStart); (11.5589255650989 : 4.06607443490112 : JumpEnd); (11.625 : 4); (11.625 : 4.34780110677083); (11.7535744349011 : 4.21922667186971 : JumpStart); (11.8714255650989 : 4.10137554167195 : JumpEnd); (12 : 3.97280110677083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_IngresoHuevos/Tbl_IngresoHuevos_Tbl_DetalleCajias" />
+      <nodes>
+        <classShapeMoniker Id="0b58fc1e-8f20-421e-bad4-85c81bd054fb" />
+        <classShapeMoniker Id="f9257e02-1bc2-475c-b4fe-d8d62b52d452" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.40625 : 18.25); (8.40625 : 4.40625); (8.54166666666667 : 4.40625 : JumpStart); (8.95833333333333 : 4.40625 : JumpEnd); (9.25 : 4.40625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_TipoIngreso/Cat_TipoIngreso_Tbl_IngresoHuevos" />
+      <nodes>
+        <classShapeMoniker Id="10dd82ad-57d6-46d0-89a3-6e08aa3f68cb" />
+        <classShapeMoniker Id="0b58fc1e-8f20-421e-bad4-85c81bd054fb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 10.8565991210938); (5.79166666666667 : 10.8565991210938 : JumpStart); (6.08333333333333 : 10.8565991210938 : JumpEnd); (8.54166666666667 : 10.8565991210938 : JumpStart); (8.95833333333333 : 10.8565991210938 : JumpEnd); (11.15625 : 10.8565991210938); (11.15625 : 7.29970540364583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Usuarios/Cat_Usuarios_Tbl_IngresoHuevos" />
+      <nodes>
+        <classShapeMoniker Id="96afcc90-669d-43d5-8990-9ba06cd96d59" />
+        <classShapeMoniker Id="0b58fc1e-8f20-421e-bad4-85c81bd054fb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 9.38785162109375); (8.66666666666667 : 9.38785162109375 : JumpStart); (8.83333333333333 : 9.38785162109375 : JumpEnd); (9 : 9.38785162109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_IngresoInventario_HSC/Tbl_IngresoInventario_HSC_Tbl_DetalleIngreso_HSC" />
+      <nodes>
+        <classShapeMoniker Id="777f682e-32e6-4cf5-9527-c8485f7293e0" />
+        <classShapeMoniker Id="7d912ac4-a178-4ced-ad8c-02b711d11989" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 10.0772710680088); (6.25 : 10.0772710680088)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Usuarios/Cat_Usuarios_Tbl_IngresoInventario_HSC" />
+      <nodes>
+        <classShapeMoniker Id="96afcc90-669d-43d5-8990-9ba06cd96d59" />
+        <classShapeMoniker Id="777f682e-32e6-4cf5-9527-c8485f7293e0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.25 : 72.4050764042969); (14.3229166666667 : 72.4050764042969 : JumpStart); (14.4895833333333 : 72.4050764042969 : JumpEnd); (14.8541666666667 : 72.4050764042969 : JumpStart); (15.0833333333333 : 72.4050764042969 : JumpEnd); (15.125 : 72.4050764042969); (15.125 : 69.5); (17.3229166666667 : 69.5 : JumpStart); (17.4895833333333 : 69.5 : JumpEnd); (17.75 : 69.5); (17.75 : 70.0497054036458); (17.7916666666667 : 70.0497054036458 : JumpStart); (17.9583333333333 : 70.0497054036458 : JumpEnd); (20.1666666666667 : 70.0497054036458 : JumpStart); (20.3333333333333 : 70.0497054036458 : JumpEnd); (20.4791666666667 : 70.0497054036458 : JumpStart); (20.7083333333333 : 70.0497054036458 : JumpEnd); (20.75 : 70.0497054036458); (20.75 : 69.375); (22 : 69.375); (22 : 68.9150211588542)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_IngresoLoteEngorde/Tbl_IngresoLoteEngorde_Tbl_AvesEnInventario" />
+      <nodes>
+        <classShapeMoniker Id="fa52e322-dc2b-437e-8dbb-24ce4fadc634" />
+        <classShapeMoniker Id="d34ae4f4-da99-4be3-93ef-4e2178bcc1b4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.25 : 73.4054996744792); (13.25 : 73.5304996744792); (14.3229166666667 : 73.5304996744792 : JumpStart); (14.4895833333333 : 73.5304996744792 : JumpEnd); (14.7291666666667 : 73.5304996744792 : JumpStart); (15.2708333333333 : 73.5304996744792 : JumpEnd); (16.1666666666667 : 73.5304996744792 : JumpStart); (16.3333333333333 : 73.5304996744792 : JumpEnd); (17.3229166666667 : 73.5304996744792 : JumpStart); (17.4895833333333 : 73.5304996744792 : JumpEnd); (17.75 : 73.5304996744792); (17.75 : 71.1186027018229); (17.7916666666667 : 71.1186027018229 : JumpStart); (17.9583333333333 : 71.1186027018229 : JumpEnd); (20.1666666666667 : 71.1186027018229 : JumpStart); (20.3333333333333 : 71.1186027018229 : JumpEnd); (20.4791666666667 : 71.1186027018229 : JumpStart); (20.7708333333333 : 71.1186027018229 : JumpEnd); (21 : 71.1186027018229)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_IngresoLoteEngorde/Tbl_IngresoLoteEngorde_Tbl_DetalleIngresoLoteEngorde" />
+      <nodes>
+        <classShapeMoniker Id="fa52e322-dc2b-437e-8dbb-24ce4fadc634" />
+        <classShapeMoniker Id="25ca5234-53da-4362-8aeb-cdf6427b9a53" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.7812525 : 74.25); (4.7812525 : 72.5853951009115); (11.9166666666667 : 72.5853951009115 : JumpStart); (12.1458333333333 : 72.5853951009115 : JumpEnd); (12.25 : 72.5853951009115)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_IngresoLoteEngorde" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="fa52e322-dc2b-437e-8dbb-24ce4fadc634" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(18.25 : 77.1210034179688); (17.7083333333333 : 77.1210034179688 : JumpStart); (17.5416666666667 : 77.1210034179688 : JumpEnd); (17.4895833333333 : 77.1210034179688 : JumpStart); (17.3229166666667 : 77.1210034179688 : JumpEnd); (15.2083333333333 : 77.1210034179688 : JumpStart); (14.4791666666667 : 77.1210034179688 : JumpEnd); (12.15625 : 77.1210034179688); (12.15625 : 88.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_IngresoLotes/Tbl_IngresoLotes_Tbl_CompraPollos" />
+      <nodes>
+        <classShapeMoniker Id="575222bf-a3df-43bd-a4c6-424ed0f96a4c" />
+        <classShapeMoniker Id="373f0088-1313-4c33-939f-885eff6e8905" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.94081430769231 : 76.4054996744792); (3.94081430769231 : 77.0304996744792); (4.10914012820513 : 77.0304996744792 : JumpStart); (4.27580679487179 : 77.0304996744792 : JumpEnd); (4.61245843589744 : 77.0304996744792 : JumpStart); (4.7791251025641 : 77.0304996744792 : JumpEnd); (5.6875 : 77.0304996744792); (5.6875 : 76.4848453776042); (5.72916666666667 : 76.4848453776042 : JumpStart); (6.06909616671675 : 76.4848453776042 : JumpEnd); (9.04166666666667 : 76.4848453776042 : JumpStart); (9.20833333333333 : 76.4848453776042 : JumpEnd); (11.3229166666667 : 76.4848453776042 : JumpStart); (11.4895833333333 : 76.4848453776042 : JumpEnd); (11.8541666666667 : 76.4848453776042 : JumpStart); (12.1458333333333 : 76.4848453776042 : JumpEnd); (12.1875 : 76.4848453776042); (12.1875 : 76.7179996744792); (14.875 : 76.7179996744792); (14.875 : 77.3670068359375); (14.9479166666667 : 77.3670068359375 : JumpStart); (15.2083333333333 : 77.3670068359375 : JumpEnd); (17.625 : 77.3670068359375); (17.625 : 74.6542497089844); (18.25 : 74.6542497089844)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_IngresoLotes" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="575222bf-a3df-43bd-a4c6-424ed0f96a4c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.40625 : 62.8285953776042); (17.40625 : 77.9647534179688); (17.6666666666667 : 77.9647534179688 : JumpStart); (17.8333333333333 : 77.9647534179688 : JumpEnd); (17.8541666666667 : 77.9647534179688 : JumpStart); (18.2083333333333 : 77.9647534179688 : JumpEnd); (18.25 : 77.9647534179688)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Broilers_Raza/Tbl_Broilers_Raza_Tbl_IngresoLotes" />
+      <nodes>
+        <classShapeMoniker Id="66d923a2-97f6-4a66-a83d-72be0974953e" />
+        <classShapeMoniker Id="575222bf-a3df-43bd-a4c6-424ed0f96a4c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 75.2022548507487); (5.72916666666667 : 75.2022548507487 : JumpStart); (5.89583333333333 : 75.2022548507487 : JumpEnd); (6.1875 : 75.2022548507487); (6.1875 : 76.4223453776042); (6.22916666666667 : 76.4223453776042 : JumpStart); (6.39583333333333 : 76.4223453776042 : JumpEnd); (9.04166666666667 : 76.4223453776042 : JumpStart); (9.20833333333333 : 76.4223453776042 : JumpEnd); (11.3229166666667 : 76.4223453776042 : JumpStart); (11.4895833333333 : 76.4223453776042 : JumpEnd); (11.8125 : 76.4223453776042); (11.8125 : 76.8429996744792); (11.8541666666667 : 76.8429996744792 : JumpStart); (12.2083333333333 : 76.8429996744792 : JumpEnd); (14.625 : 76.8429996744792); (14.625 : 77.6170068359375); (17.75 : 77.6170068359375); (17.75 : 79.1361311848958); (17.8541666666667 : 79.1361311848958 : JumpStart); (18.0208333333333 : 79.1361311848958 : JumpEnd); (18.9166666666667 : 79.1361311848958 : JumpStart); (19.0833333333333 : 79.1361311848958 : JumpEnd); (20.2916666666667 : 79.1361311848958 : JumpStart); (20.4583333333333 : 79.1361311848958 : JumpEnd); (20.4791666666667 : 79.1361311848958 : JumpStart); (20.6458333333333 : 79.1361311848958 : JumpEnd); (20.75 : 79.1361311848958); (20.75 : 76.5208968098958); (23.6666666666667 : 76.5208968098958 : JumpStart); (23.8333333333333 : 76.5208968098958 : JumpEnd); (24 : 76.5208968098958); (24 : 79.4920068359375); (24.0416691666667 : 79.4920068359375 : JumpStart); (24.2083358333333 : 79.4920068359375 : JumpEnd); (25.5 : 79.4920068359375); (25.5 : 80.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_tbl_IngresoPesoVivo" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="8c52b4d3-e9a3-4dd1-b60e-5416d2d1ee34" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.75 : 88.0969555664063); (18.1979191666667 : 88.0969555664063 : JumpStart); (18.3645858333333 : 88.0969555664063 : JumpEnd); (20.6666666666667 : 88.0969555664063 : JumpStart); (20.8333333333333 : 88.0969555664063 : JumpEnd); (21.5416666666667 : 88.0969555664063 : JumpStart); (21.7083333333333 : 88.0969555664063 : JumpEnd); (23.3229166666667 : 88.0969555664063 : JumpStart); (23.4895833333333 : 88.0969555664063 : JumpEnd); (24.9166666666667 : 88.0969555664063 : JumpStart); (25.0833333333333 : 88.0969555664063 : JumpEnd); (26.28125 : 88.0969555664063); (26.28125 : 83.2420068359375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_ViajesRemisionGranja/Tbl_ViajesRemisionGranja_tbl_IngresoPesoVivo" />
+      <nodes>
+        <classShapeMoniker Id="f2998d30-061d-4f5e-90ae-97607a85ad52" />
+        <classShapeMoniker Id="8c52b4d3-e9a3-4dd1-b60e-5416d2d1ee34" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.47846153846154 : 76.4054996744792); (5.75357443490112 : 76.6806125709187 : JumpStart); (5.90267556509888 : 76.8297137011165 : JumpEnd); (6.078125 : 77.0051631360176); (6.078125 : 101.923900553385); (9 : 101.923900553385)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_IngresosCajaChica_Comedor" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="ad928de5-e768-468e-a490-3d7409d9a32b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.21769230769231 : 131.875); (8.625 : 131.467692307692); (8.625 : 102.542102830078); (9 : 102.542102830078)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_CajaChica_Comedor/Tbl_CajaChica_Comedor_Tbl_IngresosCajaChica_Comedor" />
+      <nodes>
+        <classShapeMoniker Id="fc7daec7-5183-4340-8a94-aca28e05bcbf" />
+        <classShapeMoniker Id="ad928de5-e768-468e-a490-3d7409d9a32b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.40625 : 59.7035953776042); (14.40625 : 80.0801505533854); (14.5416666666667 : 80.0801505533854 : JumpStart); (14.7083333333333 : 80.0801505533854 : JumpEnd); (14.7291666666667 : 80.0801505533854 : JumpStart); (14.8958333333333 : 80.0801505533854 : JumpEnd); (15.25 : 80.0801505533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InsumosGranjaEngorde/Tbl_InsumosGranjaEngorde_Tbl_AplicacionesMedicinas" />
+      <nodes>
+        <classShapeMoniker Id="b2426da2-7a5b-4dbb-9953-a768c7f91b1a" />
+        <classShapeMoniker Id="109933a8-ce0d-4a1d-93c7-a144a39f0d70" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.4375025 : 59.7035953776042); (14.4375025 : 67.5488598632813); (14.5416666666667 : 67.5488598632813 : JumpStart); (14.7083333333333 : 67.5488598632813 : JumpEnd); (14.9791666666667 : 67.5488598632813 : JumpStart); (15.1458333333333 : 67.5488598632813 : JumpEnd); (15.25 : 67.5488598632813)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InsumosGranjaEngorde/Tbl_InsumosGranjaEngorde_Tbl_AplicacionesTratamientos" />
+      <nodes>
+        <classShapeMoniker Id="b2426da2-7a5b-4dbb-9953-a768c7f91b1a" />
+        <classShapeMoniker Id="cb2cbafe-5082-4296-adec-871dd318bb8e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.75 : 58.2844962565104); (11.7916666666667 : 58.2844962565104 : JumpStart); (11.9583333333333 : 58.2844962565104 : JumpEnd); (12.5 : 58.2844962565104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_CategoriaInsumosGranjaEngorde/Cat_CategoriaInsumosGranjaEngorde_Tbl_InsumosGranjaEngorde" />
+      <nodes>
+        <classShapeMoniker Id="882b1f4a-f3ad-4172-8c74-e7873e0ca442" />
+        <classShapeMoniker Id="b2426da2-7a5b-4dbb-9953-a768c7f91b1a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.75 : 59.4142976888021); (12.5 : 59.4142976888021)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_UnidadMedidaInsumoGranja/Cat_UnidadMedidaInsumoGranja_Tbl_InsumosGranjaEngorde" />
+      <nodes>
+        <classShapeMoniker Id="75711f19-7154-4141-b63a-bae5f2244dfb" />
+        <classShapeMoniker Id="b2426da2-7a5b-4dbb-9953-a768c7f91b1a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.25 : 54.3373527018229); (18.09375 : 54.3373527018229); (18.09375 : 66.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Inventario/Tbl_Inventario_Tbl_DetalleFactura" />
+      <nodes>
+        <classShapeMoniker Id="610d7af5-0c27-4ab6-99b0-d883f5868526" />
+        <classShapeMoniker Id="da1a4190-6b6e-402e-9090-88c22c8901c5" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.25 : 55.0997810527344); (17.875 : 55.0997810527344); (17.875 : 79.5); (18.468748 : 79.5); (18.468748 : 79.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Inventario/Tbl_Inventario_Tbl_DetalleFacturaCompra" />
+      <nodes>
+        <classShapeMoniker Id="610d7af5-0c27-4ab6-99b0-d883f5868526" />
+        <classShapeMoniker Id="223dd1bd-d32b-4fce-9107-70d751d88922" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.3146143846154 : 55.7997054036458); (15.2151755650989 : 55.8991442231623 : JumpStart); (15.0973244349011 : 56.0169953533601 : JumpEnd); (14.96875 : 56.1455697882612); (14.96875 : 87.1350052897135); (12.2395833333333 : 87.1350052897135 : JumpStart); (11.9791666666667 : 87.1350052897135 : JumpEnd); (11.9583333333333 : 87.1350052897135 : JumpStart); (11.7916666666667 : 87.1350052897135 : JumpEnd); (11 : 87.1350052897135)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Inventario/Tbl_Inventario_Tbl_DetalleSalidaInv_Comedor" />
+      <nodes>
+        <classShapeMoniker Id="610d7af5-0c27-4ab6-99b0-d883f5868526" />
+        <classShapeMoniker Id="3951b389-60d4-4d90-aa0c-ee2cd6cbaa62" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.25 : 55.7997054036458); (17.625 : 56.1747054036458); (18.0104166666667 : 56.1747054036458 : JumpStart); (18.1770833333333 : 56.1747054036458 : JumpEnd); (20.625 : 56.1747054036458); (20.625 : 77.4984625384615); (20.6910744349011 : 77.5645369733626 : JumpStart); (20.8089255650989 : 77.6823881035604 : JumpEnd); (20.8160744349011 : 77.6895369733626 : JumpStart); (20.9339255650989 : 77.8073881035604 : JumpEnd); (21.0015374615385 : 77.875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Inventario/Tbl_Inventario_Tbl_EmpleadoConBeneficio" />
+      <nodes>
+        <classShapeMoniker Id="610d7af5-0c27-4ab6-99b0-d883f5868526" />
+        <classShapeMoniker Id="feb76855-3503-426d-bc87-5faff05ee8ea" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 2.84242175140224); (11.8125 : 3.40492175140224); (11.8125 : 5.33454756054688); (12 : 5.33454756054688)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Inventario_HuevoSinClasificar/Tbl_Inventario_HuevoSinClasificar_Tbl_DetalleHuevoProcesado" />
+      <nodes>
+        <classShapeMoniker Id="dd6368cd-2b22-4118-af46-50c9c01d6953" />
+        <classShapeMoniker Id="b9f34de1-0f34-4fff-bfc0-93a4448c0ff8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.25 : 2.90549967447917); (8.875 : 3.28049967447917); (8.625 : 3.28049967447917); (8.625 : 11); (8.69107443490112 : 11.0660744349011 : JumpStart); (8.80892556509888 : 11.1839255650989 : JumpEnd); (9 : 11.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Inventario_HuevoSinClasificar/Tbl_Inventario_HuevoSinClasificar_Tbl_DetalleSalidaHuevoClasificado" />
+      <nodes>
+        <classShapeMoniker Id="dd6368cd-2b22-4118-af46-50c9c01d6953" />
+        <classShapeMoniker Id="7f781a0d-91f9-45fd-8cfe-08c0c86a0781" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 1.88243753673377); (9.25 : 1.88243753673377)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_TipoHuevo/Cat_TipoHuevo_Tbl_Inventario_HuevoSinClasificar" />
+      <nodes>
+        <classShapeMoniker Id="422873bb-9f33-4d72-96d1-e3ebfeb9dd32" />
+        <classShapeMoniker Id="dd6368cd-2b22-4118-af46-50c9c01d6953" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(20.25 : 97.3565991210938); (21.625 : 97.3565991210938); (21.625 : 84.4054996744792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InventarioCombustible/Tbl_InventarioCombustible_Tbl_DetalleDespacho" />
+      <nodes>
+        <classShapeMoniker Id="b7a0e61a-ed4e-46fe-b2f9-63040863cf49" />
+        <classShapeMoniker Id="42bcdc26-9da1-4369-bd67-517d9417295d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(19.90625 : 96.375); (19.90625 : 90.3381982421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InventarioCombustible/Tbl_InventarioCombustible_Tbl_DetalleIngreso" />
+      <nodes>
+        <classShapeMoniker Id="b7a0e61a-ed4e-46fe-b2f9-63040863cf49" />
+        <classShapeMoniker Id="d1973119-e666-49a7-99aa-6f544532fdf3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.75 : 46.8189925130208); (7.75 : 47.375); (9.125 : 47.375); (9.125 : 76.75); (8.5 : 76.75); (8.5 : 96.25); (17.875 : 96.25); (17.875 : 97.3565991210938); (18.25 : 97.3565991210938)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Combustible/Cat_Combustible_Tbl_InventarioCombustible" />
+      <nodes>
+        <classShapeMoniker Id="f5f54256-ccd3-4f10-8605-c63bd08e22af" />
+        <classShapeMoniker Id="b7a0e61a-ed4e-46fe-b2f9-63040863cf49" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 76.3347294437099); (5.75357443490112 : 76.588303878611 : JumpStart); (5.87142556509888 : 76.7061550088088 : JumpEnd); (6.28125 : 77.1159794437099); (6.28125 : 78.6386941614583); (7.66666666666667 : 78.6386941614583 : JumpStart); (7.83333333333333 : 78.6386941614583 : JumpEnd); (8.41666666666667 : 78.6386941614583 : JumpStart); (8.58333333333333 : 78.6386941614583 : JumpEnd); (9.25 : 78.6386941614583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_InventarioDanado" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="5ebc3e8b-5bc0-4a84-bbdd-d032a5544d02" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.2807687307692 : 55.7997054036458); (16.2807687307692 : 57.375); (15.0625 : 57.375); (15.0625 : 77); (14.7708333333333 : 77 : JumpStart); (14.6041666666667 : 77 : JumpEnd); (12.1458333333333 : 77 : JumpStart); (11.9791666666667 : 77 : JumpEnd); (11.6875 : 77); (11.6875 : 78.3854484049479); (11.25 : 78.3854484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Inventario/Tbl_Inventario_Tbl_InventarioDanado" />
+      <nodes>
+        <classShapeMoniker Id="610d7af5-0c27-4ab6-99b0-d883f5868526" />
+        <classShapeMoniker Id="5ebc3e8b-5bc0-4a84-bbdd-d032a5544d02" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(24 : 85.0152498372396); (23.3333333333333 : 85.0152498372396 : JumpStart); (23.1666666666667 : 85.0152498372396 : JumpEnd); (21.7083333333333 : 85.0152498372396 : JumpStart); (21.5416666666667 : 85.0152498372396 : JumpEnd); (20.9583333333333 : 85.0152498372396 : JumpStart); (20.6666666666667 : 85.0152498372396 : JumpEnd); (17.75 : 85.0152498372396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InventarioGalera/Tbl_InventarioGalera_Tbl_ViajesRemisionGranja" />
+      <nodes>
+        <classShapeMoniker Id="9dc15065-7da5-4912-9daf-a47ce1337116" />
+        <classShapeMoniker Id="f2998d30-061d-4f5e-90ae-97607a85ad52" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(26 : 85.9239005533854); (26.75 : 85.9239005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InventarioGalera/Tbl_InventarioGalera_Tbl_ajusteInventarioInicialLoteGranja" />
+      <nodes>
+        <classShapeMoniker Id="9dc15065-7da5-4912-9daf-a47ce1337116" />
+        <classShapeMoniker Id="041e127f-f370-4b4b-9903-dbb79908c687" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(24 : 86.448332485026); (23.3333333333333 : 86.448332485026 : JumpStart); (23.1666666666667 : 86.448332485026 : JumpEnd); (20.875 : 86.448332485026); (20.875 : 83.625); (16.0000005 : 83.625); (16.0000005 : 82.1939111328125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InventarioGalera/Tbl_InventarioGalera_Tbl_AplicacionesMedicinas" />
+      <nodes>
+        <classShapeMoniker Id="9dc15065-7da5-4912-9daf-a47ce1337116" />
+        <classShapeMoniker Id="109933a8-ce0d-4a1d-93c7-a144a39f0d70" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(24 : 85.7317911611328); (23.3333333333333 : 85.7317911611328 : JumpStart); (23.1666666666667 : 85.7317911611328 : JumpEnd); (21.7083333333333 : 85.7317911611328 : JumpStart); (21.5416666666667 : 85.7317911611328 : JumpEnd); (20.9583333333333 : 85.7317911611328 : JumpStart); (20.6666666666667 : 85.7317911611328 : JumpEnd); (20.625 : 85.7317911611328); (20.625 : 83.375); (16.0833338333333 : 83.375 : JumpStart); (15.9166671666667 : 83.375 : JumpEnd); (15.1875 : 83.375); (15.1875 : 68.8189111328125); (16.781252 : 68.8189111328125); (16.781252 : 68.1939111328125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InventarioGalera/Tbl_InventarioGalera_Tbl_AplicacionesTratamientos" />
+      <nodes>
+        <classShapeMoniker Id="9dc15065-7da5-4912-9daf-a47ce1337116" />
+        <classShapeMoniker Id="cb2cbafe-5082-4296-adec-871dd318bb8e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(24 : 87.1648738089193); (23.3333333333333 : 87.1648738089193 : JumpStart); (23.1666666666667 : 87.1648738089193 : JumpEnd); (20.8125 : 87.1648738089193); (20.8125 : 83.625); (14.8125 : 83.625); (14.8125 : 73.3093082682292); (14.9166666666667 : 73.3093082682292 : JumpStart); (15.1458333333333 : 73.3093082682292 : JumpEnd); (16.1666666666667 : 73.3093082682292 : JumpStart); (16.3333333333333 : 73.3093082682292 : JumpEnd); (16.781252 : 73.3093082682292); (16.781252 : 73.0593082682292)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InventarioGalera/Tbl_InventarioGalera_Tbl_ControlAlimenticio" />
+      <nodes>
+        <classShapeMoniker Id="9dc15065-7da5-4912-9daf-a47ce1337116" />
+        <classShapeMoniker Id="d895efa8-b862-427a-b36a-3c1743c3f518" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 90.5489005533854); (11.5 : 90.5489005533854); (11.5 : 88.25); (11.9791666666667 : 88.25 : JumpStart); (12.1458333333333 : 88.25 : JumpEnd); (12.9166666666667 : 88.25 : JumpStart); (13.0833333333333 : 88.25 : JumpEnd); (15.5 : 88.25); (15.5 : 89.1650211588542); (18.1979191666667 : 89.1650211588542 : JumpStart); (18.3645858333333 : 89.1650211588542 : JumpEnd); (18.75 : 89.1650211588542); (18.75 : 88.25); (20.6666666666667 : 88.25 : JumpStart); (20.8333333333333 : 88.25 : JumpEnd); (25 : 88.25); (25 : 87.8189111328125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Galeras/Tbl_Galeras_Tbl_InventarioGalera" />
+      <nodes>
+        <classShapeMoniker Id="861fd2e0-fee8-413f-9476-b00fe4fba62c" />
+        <classShapeMoniker Id="9dc15065-7da5-4912-9daf-a47ce1337116" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(20.25 : 73.8133048502604); (20.4791666666667 : 73.8133048502604 : JumpStart); (20.7083333333333 : 73.8133048502604 : JumpEnd); (24.09375 : 73.8133048502604); (24.09375 : 84.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_IngresoLotes/Tbl_IngresoLotes_Tbl_InventarioGalera" />
+      <nodes>
+        <classShapeMoniker Id="575222bf-a3df-43bd-a4c6-424ed0f96a4c" />
+        <classShapeMoniker Id="9dc15065-7da5-4912-9daf-a47ce1337116" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 76.3501140590946); (6.25 : 77.1001140590946); (6.25 : 80.3854484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_InventarioPerdido" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="94961c74-d94c-48a2-ad33-bc90ca020fc0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.25 : 54.3373527018229); (15.2395833333333 : 54.3373527018229 : JumpStart); (15.0729166666667 : 54.3373527018229 : JumpEnd); (14.75 : 54.3373527018229); (14.75 : 56.1939925130208); (11.9583333333333 : 56.1939925130208 : JumpStart); (11.7916666666667 : 56.1939925130208 : JumpEnd); (9.20833333333333 : 56.1939925130208 : JumpStart); (9.04166666666667 : 56.1939925130208 : JumpEnd); (5.5625 : 56.1939925130208); (5.5625 : 79.125); (5.72916666666667 : 79.125 : JumpStart); (6.33333333333333 : 79.125 : JumpEnd); (7.25 : 79.125); (7.25 : 79.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Inventario/Tbl_Inventario_Tbl_InventarioPerdido" />
+      <nodes>
+        <classShapeMoniker Id="610d7af5-0c27-4ab6-99b0-d883f5868526" />
+        <classShapeMoniker Id="94961c74-d94c-48a2-ad33-bc90ca020fc0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 76.0124745432066); (5.54166666666667 : 76.0124745432066 : JumpStart); (6.33333333333333 : 76.0124745432066 : JumpEnd); (6.375 : 76.0124745432066); (6.375 : 76.0785953776042); (8.75 : 76.0785953776042); (8.75 : 80.125); (10.25 : 80.125); (10.25 : 80.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_InventarioVencido" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="1853daf9-0c61-4ec7-923d-9531d194de9a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.2792297692308 : 55.7997054036458); (15.2151755650989 : 55.8637596077777 : JumpStart); (15.0973244349011 : 55.9816107379755 : JumpEnd); (14.9375 : 56.1414351728766); (14.9375 : 80.25); (14.8958333333333 : 80.25 : JumpStart); (14.7291666666667 : 80.25 : JumpEnd); (14.7083333333333 : 80.25 : JumpStart); (14.5416666666667 : 80.25 : JumpEnd); (12.2395833333333 : 80.25 : JumpStart); (11.7916666666667 : 80.25 : JumpEnd); (11.5013612283153 : 80.25); (11.25 : 80.5013612283153)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Inventario/Tbl_Inventario_Tbl_InventarioVencido" />
+      <nodes>
+        <classShapeMoniker Id="610d7af5-0c27-4ab6-99b0-d883f5868526" />
+        <classShapeMoniker Id="1853daf9-0c61-4ec7-923d-9531d194de9a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.75 : 86.5104484049479); (18.5 : 86.5104484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_ViajesRemisionGranja/Tbl_ViajesRemisionGranja_Tbl_JavasEnviadas" />
+      <nodes>
+        <classShapeMoniker Id="f2998d30-061d-4f5e-90ae-97607a85ad52" />
+        <classShapeMoniker Id="8059dd8e-41e5-4f28-9bee-2e271322eeae" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 97.5777498372396); (12.21875 : 97.5777498372396); (12.21875 : 92.5785139973958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/tbl_Matadero/tbl_Matadero_Tbl_CompraPollos" />
+      <nodes>
+        <classShapeMoniker Id="c0d2c17d-60c1-4fbd-8a16-5c186b61c7f7" />
+        <classShapeMoniker Id="373f0088-1313-4c33-939f-885eff6e8905" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 74.298775229655); (5.66666666666667 : 74.298775229655 : JumpStart); (5.83333333333333 : 74.298775229655 : JumpEnd); (6.0625 : 74.298775229655); (6.0625 : 72.875); (9.04166666666667 : 72.875 : JumpStart); (9.20833333333333 : 72.875 : JumpEnd); (11.3229166666667 : 72.875 : JumpStart); (11.4895833333333 : 72.875 : JumpEnd); (11.6041666666667 : 72.875 : JumpStart); (11.7708333333333 : 72.875 : JumpEnd); (11.9375 : 72.875); (11.9375 : 73.6875); (11.9791666666667 : 73.6875 : JumpStart); (12.1458333333333 : 73.6875 : JumpEnd); (14.3229166666667 : 73.6875 : JumpStart); (14.4895833333333 : 73.6875 : JumpEnd); (14.7291666666667 : 73.6875 : JumpStart); (15.2708333333333 : 73.6875 : JumpEnd); (17.3229166666667 : 73.6875 : JumpStart); (17.4895833333333 : 73.6875 : JumpEnd); (17.7916666666667 : 73.6875 : JumpStart); (17.9583333333333 : 73.6875 : JumpEnd); (18 : 73.6875); (18 : 72); (19.1666666666667 : 72 : JumpStart); (19.3333333333333 : 72 : JumpEnd); (20.4791666666667 : 72 : JumpStart); (20.7083333333333 : 72 : JumpEnd); (20.75 : 72); (20.75 : 74.25); (24.0104166666667 : 74.25 : JumpStart); (24.1770833333333 : 74.25 : JumpEnd); (24.9218745 : 74.25); (24.9218745 : 71.2804996744792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_MortalidadDiaria" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="f1595be4-a895-4071-9838-48607e8f786c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(23 : 66.3950105794271); (24.75 : 66.3950105794271); (24.75 : 69.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_AvesEnInventario/Tbl_AvesEnInventario_Tbl_MortalidadDiaria" />
+      <nodes>
+        <classShapeMoniker Id="d34ae4f4-da99-4be3-93ef-4e2178bcc1b4" />
+        <classShapeMoniker Id="f1595be4-a895-4071-9838-48607e8f786c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.69579176923077 : 76.4054996744792); (4.69579176923077 : 77.2700512695313); (5.84375 : 77.2700512695313); (5.84375 : 76.625); (11.6875 : 76.625); (11.6875 : 76.6867496744792); (14.6875 : 76.6867496744792); (14.6875 : 77.3045068359375); (14.9479166666667 : 77.3045068359375 : JumpStart); (15.1145833333333 : 77.3045068359375 : JumpEnd); (18.125 : 77.3045068359375); (18.125 : 79.0111311848958); (20.2916666666667 : 79.0111311848958 : JumpStart); (20.4583333333333 : 79.0111311848958 : JumpEnd); (20.4791666666667 : 79.0111311848958 : JumpStart); (20.6458333333333 : 79.0111311848958 : JumpEnd); (20.875 : 79.0111311848958); (20.875 : 76.7708968098958); (23.75 : 76.7708968098958); (23.75 : 75.875); (27.375 : 75.875); (27.375 : 77.0200512695313); (27.75 : 77.0200512695313)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_ParametrosDiarios" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="32c86a08-6443-4807-85e2-6c4ecf0c4d57" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(24.1250025 : 84.125); (24.1250025 : 75.96875); (27.75 : 75.96875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InventarioGalera/Tbl_InventarioGalera_Tbl_ParametrosDiarios" />
+      <nodes>
+        <classShapeMoniker Id="9dc15065-7da5-4912-9daf-a47ce1337116" />
+        <classShapeMoniker Id="32c86a08-6443-4807-85e2-6c4ecf0c4d57" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(20.25 : 75.3854484049479); (20.4791666666667 : 75.3854484049479 : JumpStart); (20.7083333333333 : 75.3854484049479 : JumpEnd); (21 : 75.3854484049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_IngresoLotes/Tbl_IngresoLotes_Tbl_PersonalEnEntrada" />
+      <nodes>
+        <classShapeMoniker Id="575222bf-a3df-43bd-a4c6-424ed0f96a4c" />
+        <classShapeMoniker Id="87fc96f7-3772-4761-ac54-fc95f3da76f4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 76.1583248305539); (5.72916666666667 : 76.1583248305539 : JumpStart); (5.89583333333333 : 76.1583248305539 : JumpEnd); (6.3125 : 76.1583248305539); (6.3125 : 76.5473453776042); (11.5625 : 76.5473453776042); (11.5625 : 76.7492496744792); (11.9791666666667 : 76.7492496744792 : JumpStart); (12.1458333333333 : 76.7492496744792 : JumpEnd); (14.5625 : 76.7492496744792); (14.5625 : 77.4295068359375); (14.9479166666667 : 77.4295068359375 : JumpStart); (15.1145833333333 : 77.4295068359375 : JumpEnd); (18.0625 : 77.4295068359375); (18.0625 : 78.7611311848958); (20.2916666666667 : 78.7611311848958 : JumpStart); (20.4583333333333 : 78.7611311848958 : JumpEnd); (20.5 : 78.7611311848958); (20.5 : 76.6458968098958); (23.6666666666667 : 76.6458968098958 : JumpStart); (23.8333333333333 : 76.6458968098958 : JumpEnd); (23.875 : 76.6458968098958); (23.875 : 83.875); (24.0416691666667 : 83.875 : JumpStart); (24.2083358333333 : 83.875 : JumpEnd); (26.484375 : 83.875); (26.484375 : 89.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_Pesajes_EPBH" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="20a45904-f521-4793-935a-960019afa00b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.19247346153846 : 76.4054996744792); (4.19247346153846 : 77.5); (5.75 : 77.5); (5.75 : 78.1939925130208); (9 : 78.1939925130208); (9 : 77.03125); (15.03125 : 77.03125); (15.03125 : 77.5545068359375); (17.9375 : 77.5545068359375); (17.9375 : 79.2611311848958); (20.375 : 79.2611311848958); (20.375 : 77.2916984049479); (24.25 : 77.2916984049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_Pesajes_RPBH" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="8279a0e5-927b-410d-b773-5f122984c649" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 76.1895773305539); (5.54166666666667 : 76.1895773305539 : JumpStart); (5.89583333333333 : 76.1895773305539 : JumpEnd); (5.91666666666667 : 76.1895773305539 : JumpStart); (6.33333333333333 : 76.1895773305539 : JumpEnd); (6.4375 : 76.1895773305539); (6.4375 : 76.3598453776042); (9.04166666666667 : 76.3598453776042 : JumpStart); (9.20833333333333 : 76.3598453776042 : JumpEnd); (11.3229166666667 : 76.3598453776042 : JumpStart); (11.5364583333333 : 76.3598453776042 : JumpEnd); (11.8541666666667 : 76.3598453776042 : JumpStart); (12.0208333333333 : 76.3598453776042 : JumpEnd); (12.03125 : 76.3598453776042); (12.03125 : 76.5929996744792); (14.3229166666667 : 76.5929996744792 : JumpStart); (14.4895833333333 : 76.5929996744792 : JumpEnd); (14.6979166666667 : 76.5929996744792 : JumpStart); (15.0520833333333 : 76.5929996744792 : JumpEnd); (15.09375 : 76.5929996744792); (15.09375 : 77.6795068359375); (15.1041666666667 : 77.6795068359375 : JumpStart); (15.2708333333333 : 77.6795068359375 : JumpEnd); (16.1666666666667 : 77.6795068359375 : JumpStart); (16.3333333333333 : 77.6795068359375 : JumpEnd); (17.3229166666667 : 77.6795068359375 : JumpStart); (17.4895833333333 : 77.6795068359375 : JumpEnd); (17.625 : 77.6795068359375); (17.625 : 78.9486311848958); (17.6666666666667 : 78.9486311848958 : JumpStart); (18.0208333333333 : 78.9486311848958 : JumpEnd); (20.2916666666667 : 78.9486311848958 : JumpStart); (20.4583333333333 : 78.9486311848958 : JumpEnd); (20.4791666666667 : 78.9486311848958 : JumpStart); (20.6458333333333 : 78.9486311848958 : JumpEnd); (20.8125 : 78.9486311848958); (20.8125 : 76.3958968098958); (23.40625 : 76.3958968098958); (23.40625 : 89.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_Pesajes_SCF" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="62f52a68-d9b3-4040-9338-5afaa3d44f33" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 75.8666242558594); (5.54166666666667 : 75.8666242558594 : JumpStart); (5.89583333333333 : 75.8666242558594 : JumpEnd); (6.03125 : 75.8666242558594); (6.03125 : 76.2973453776042); (6.10416666666667 : 76.2973453776042 : JumpStart); (6.39583333333333 : 76.2973453776042 : JumpEnd); (9.04166666666667 : 76.2973453776042 : JumpStart); (9.20833333333333 : 76.2973453776042 : JumpEnd); (11.3229166666667 : 76.2973453776042 : JumpStart); (11.4895833333333 : 76.2973453776042 : JumpEnd); (11.96875 : 76.2973453776042); (11.96875 : 76.6242496744792); (11.9791666666667 : 76.6242496744792 : JumpStart); (12.2083333333333 : 76.6242496744792 : JumpEnd); (14.7291666666667 : 76.6242496744792 : JumpStart); (14.8958333333333 : 76.6242496744792 : JumpEnd); (14.90625 : 76.6242496744792); (14.90625 : 77.2732568359375); (14.9479166666667 : 77.2732568359375 : JumpStart); (15.2708333333333 : 77.2732568359375 : JumpEnd); (17.3229166666667 : 77.2732568359375 : JumpStart); (17.4895833333333 : 77.2732568359375 : JumpEnd); (17.5416666666667 : 77.2732568359375 : JumpStart); (17.7083333333333 : 77.2732568359375 : JumpEnd); (18.1875 : 77.2732568359375); (18.1875 : 78.8236311848958); (20.2916666666667 : 78.8236311848958 : JumpStart); (20.4583333333333 : 78.8236311848958 : JumpEnd); (20.4791666666667 : 78.8236311848958 : JumpStart); (20.6458333333333 : 78.8236311848958 : JumpEnd); (20.6875 : 78.8236311848958); (20.6875 : 76.8958968098958); (20.7916666666667 : 76.8958968098958 : JumpStart); (20.9583333333333 : 76.8958968098958 : JumpEnd); (23.625 : 76.8958968098958); (23.625 : 79.7420068359375); (23.7916666666667 : 79.7420068359375 : JumpStart); (23.9583333333333 : 79.7420068359375 : JumpEnd); (24.0104166666667 : 79.7420068359375 : JumpStart); (24.2083358333333 : 79.7420068359375 : JumpEnd); (25.4166666666667 : 79.7420068359375 : JumpStart); (25.5833333333333 : 79.7420068359375 : JumpEnd); (28.25 : 79.7420068359375); (28.25 : 80)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_PesajesCortes" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="52d14724-714d-4427-b5b8-75eb3ef73bbd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(19.5 : 93.6795073359375); (26.25 : 93.6795073359375); (26.25 : 92.2420068359375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_PesoCortes_detalle/Tbl_PesoCortes_detalle_Tbl_Pesajes_EPBH" />
+      <nodes>
+        <classShapeMoniker Id="88bae7ea-2f63-40a1-ac0c-9a8fdbaefd75" />
+        <classShapeMoniker Id="20a45904-f521-4793-935a-960019afa00b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(18.2812525 : 92); (18.2812525 : 87.6458968098958); (20.6666666666667 : 87.6458968098958 : JumpStart); (20.8333333333333 : 87.6458968098958 : JumpEnd); (23.25 : 87.6458968098958); (23.25 : 78.2981046204427); (24.0416691666667 : 78.2981046204427 : JumpStart); (24.2083358333333 : 78.2981046204427 : JumpEnd); (24.25 : 78.2981046204427)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_PesoCortes_detalle/Tbl_PesoCortes_detalle_Tbl_Pesajes_RPBH" />
+      <nodes>
+        <classShapeMoniker Id="88bae7ea-2f63-40a1-ac0c-9a8fdbaefd75" />
+        <classShapeMoniker Id="8279a0e5-927b-410d-b773-5f122984c649" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(19.5 : 92.8622036536458); (19.8229166666667 : 92.8622036536458 : JumpStart); (19.9895833333333 : 92.8622036536458 : JumpEnd); (21.5416666666667 : 92.8622036536458 : JumpStart); (21.7083333333333 : 92.8622036536458 : JumpEnd); (23.25 : 92.8622036536458); (23.25 : 92.1074039713542)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_PesoCortes_detalle/Tbl_PesoCortes_detalle_Tbl_Pesajes_SCF" />
+      <nodes>
+        <classShapeMoniker Id="88bae7ea-2f63-40a1-ac0c-9a8fdbaefd75" />
+        <classShapeMoniker Id="62f52a68-d9b3-4040-9338-5afaa3d44f33" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(19.5 : 94.4295095859375); (19.8229166666667 : 94.4295095859375 : JumpStart); (19.9895833333333 : 94.4295095859375 : JumpEnd); (21.5416666666667 : 94.4295095859375 : JumpStart); (21.7083333333333 : 94.4295095859375 : JumpEnd); (29.03125 : 94.4295095859375); (29.03125 : 83.5016097005208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_PesoCortes_detalle/Tbl_PesoCortes_detalle_Tbl_PesajesCortes" />
+      <nodes>
+        <classShapeMoniker Id="88bae7ea-2f63-40a1-ac0c-9a8fdbaefd75" />
+        <classShapeMoniker Id="52d14724-714d-4427-b5b8-75eb3ef73bbd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.75 : 98.5473453776042); (17.6875 : 98.5473453776042); (17.6875 : 95.1170068359375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_EstadoRubro/Tbl_EstadoRubro_Tbl_PesoCortes_detalle" />
+      <nodes>
+        <classShapeMoniker Id="e2c94e26-f46f-4452-9349-5d8667c3ecc9" />
+        <classShapeMoniker Id="88bae7ea-2f63-40a1-ac0c-9a8fdbaefd75" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.75 : 92.5585034179688); (17.5 : 92.5585034179688)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_PesoFrio_master/Tbl_PesoFrio_master_Tbl_PesoCortes_detalle" />
+      <nodes>
+        <classShapeMoniker Id="0ab09fd5-e6d3-4ef8-8d25-e5804aaca4af" />
+        <classShapeMoniker Id="88bae7ea-2f63-40a1-ac0c-9a8fdbaefd75" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14 : 91.2892569986979); (14.75 : 91.2892569986979)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_CompraPollos/Tbl_CompraPollos_Tbl_PesoFrio_master" />
+      <nodes>
+        <classShapeMoniker Id="373f0088-1313-4c33-939f-885eff6e8905" />
+        <classShapeMoniker Id="0ab09fd5-e6d3-4ef8-8d25-e5804aaca4af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.5 : 58.1553566034155); (15.0035744349011 : 57.6517821685144 : JumpStart); (15.1214255650989 : 57.5339310383166 : JumpEnd); (15.15625 : 57.4991066034155); (15.15625 : 50.9239005533854); (15.25 : 50.9239005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InsumosGranjaEngorde/Tbl_InsumosGranjaEngorde_Tbl_PreciosInsumosGranja" />
+      <nodes>
+        <classShapeMoniker Id="b2426da2-7a5b-4dbb-9953-a768c7f91b1a" />
+        <classShapeMoniker Id="6e768154-653c-462f-94c5-8a411d911659" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.5 : 54.9002754720052); (14.6666666666667 : 54.9002754720052 : JumpStart); (14.9583333333333 : 54.9002754720052 : JumpEnd); (15.0729166666667 : 54.9002754720052 : JumpStart); (15.2395833333333 : 54.9002754720052 : JumpEnd); (15.25 : 54.9002754720052)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Producto/Tbl_Producto_Tbl_Inventario" />
+      <nodes>
+        <classShapeMoniker Id="920d3f55-acf4-482c-937b-0de0b4cb65c8" />
+        <classShapeMoniker Id="610d7af5-0c27-4ab6-99b0-d883f5868526" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.75 : 53.7219962565104); (11.7916666666667 : 53.7219962565104 : JumpStart); (11.9583333333333 : 53.7219962565104 : JumpEnd); (12.5 : 53.7219962565104)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_CategoriaProducto/Cat_CategoriaProducto_Tbl_Producto" />
+      <nodes>
+        <classShapeMoniker Id="62754ad9-7e78-44a2-a263-49111889ab9b" />
+        <classShapeMoniker Id="920d3f55-acf4-482c-937b-0de0b4cb65c8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.75 : 55.0440991210938); (11.7916666666667 : 55.0440991210938 : JumpStart); (11.9583333333333 : 55.0440991210938 : JumpEnd); (12.5 : 55.0440991210938)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_MedidaProducto/Cat_MedidaProducto_Tbl_Producto" />
+      <nodes>
+        <classShapeMoniker Id="9098c6ca-4644-4309-b985-adcb49d1b985" />
+        <classShapeMoniker Id="920d3f55-acf4-482c-937b-0de0b4cb65c8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.453125 : 83.375); (11.453125 : 74.46875); (11.5416666666667 : 74.46875 : JumpStart); (11.7083333333333 : 74.46875 : JumpEnd); (11.9791666666667 : 74.46875 : JumpStart); (12.1458333333333 : 74.46875 : JumpEnd); (12.25 : 74.46875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Proveedores/Tbl_Proveedores_Tbl_CompraProductoComedor" />
+      <nodes>
+        <classShapeMoniker Id="291b5f5b-8bc0-4e30-8988-c73ce0936717" />
+        <classShapeMoniker Id="83071c43-267f-4eed-a39d-9c19bf186f50" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.501509152494 : 59.5881982421875); (15.126509152494 : 59.9631982421875); (14.625 : 59.9631982421875); (14.625 : 70.8765374615385); (14.25 : 71.2515374615385)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/tbl_ProveedoresAvesEngorde/tbl_ProveedoresAvesEngorde_Tbl_IngresoLoteEngorde" />
+      <nodes>
+        <classShapeMoniker Id="d024adf8-c576-473a-a0fb-ba50c4f87bf2" />
+        <classShapeMoniker Id="fa52e322-dc2b-437e-8dbb-24ce4fadc634" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.5 : 58.6065991210938); (17.75 : 58.6065991210938); (17.75 : 66.625); (18.0104166666667 : 66.625 : JumpStart); (18.1770833333333 : 66.625 : JumpEnd); (20.25 : 66.625); (20.25 : 71.625); (19.25 : 71.625); (19.25 : 72.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/tbl_ProveedoresAvesEngorde/tbl_ProveedoresAvesEngorde_Tbl_IngresoLotes" />
+      <nodes>
+        <classShapeMoniker Id="d024adf8-c576-473a-a0fb-ba50c4f87bf2" />
+        <classShapeMoniker Id="575222bf-a3df-43bd-a4c6-424ed0f96a4c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(20.25 : 65.0681469726563); (20.4791666666667 : 65.0681469726563 : JumpStart); (20.7083333333333 : 65.0681469726563 : JumpEnd); (21 : 65.0681469726563)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_RazaAves/Tbl_RazaAves_Tbl_AvesEnInventario" />
+      <nodes>
+        <classShapeMoniker Id="4b586f9c-181f-43af-a32e-9dfc02a82fe6" />
+        <classShapeMoniker Id="d34ae4f4-da99-4be3-93ef-4e2178bcc1b4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(20.25 : 65.6994429077524); (20.5035744349011 : 65.9530173426535 : JumpStart); (20.6214255650989 : 66.0708684728513 : JumpEnd); (20.6875 : 66.1369429077524); (20.6875 : 72.5633043502604); (21 : 72.5633043502604)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_RazaAves/Tbl_RazaAves_Tbl_DetalleIngresoLoteEngorde" />
+      <nodes>
+        <classShapeMoniker Id="4b586f9c-181f-43af-a32e-9dfc02a82fe6" />
+        <classShapeMoniker Id="25ca5234-53da-4362-8aeb-cdf6427b9a53" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 75.6440657965495); (5.54166666666667 : 75.6440657965495 : JumpStart); (5.70833333333333 : 75.6440657965495 : JumpEnd); (5.72916666666667 : 75.6440657965495 : JumpStart); (5.89583333333333 : 75.6440657965495 : JumpEnd); (5.96875 : 75.6440657965495); (5.96875 : 76.2348453776042); (6.10416666666667 : 76.2348453776042 : JumpStart); (6.33333333333333 : 76.2348453776042 : JumpEnd); (9.04166666666667 : 76.2348453776042 : JumpStart); (9.20833333333333 : 76.2348453776042 : JumpEnd); (11.3229166666667 : 76.2348453776042 : JumpStart); (11.4895833333333 : 76.2348453776042 : JumpEnd); (12.09375 : 76.2348453776042); (12.09375 : 76.5617496744792); (14.7291666666667 : 76.5617496744792 : JumpStart); (14.8958333333333 : 76.5617496744792 : JumpEnd); (14.9791666666667 : 76.5617496744792 : JumpStart); (15.1458333333333 : 76.5617496744792 : JumpEnd); (15.15625 : 76.5617496744792); (15.15625 : 77.2107568359375); (17.3229166666667 : 77.2107568359375 : JumpStart); (17.4895833333333 : 77.2107568359375 : JumpEnd); (17.5416666666667 : 77.2107568359375 : JumpStart); (17.7083333333333 : 77.2107568359375 : JumpEnd); (17.8125 : 77.2107568359375); (17.8125 : 79.0736311848958); (17.8541666666667 : 79.0736311848958 : JumpStart); (18.0208333333333 : 79.0736311848958 : JumpEnd); (18.9166666666667 : 79.0736311848958 : JumpStart); (19.0833333333333 : 79.0736311848958 : JumpEnd); (20.2916666666667 : 79.0736311848958 : JumpStart); (20.4583333333333 : 79.0736311848958 : JumpEnd); (20.4791666666667 : 79.0736311848958 : JumpStart); (20.6458333333333 : 79.0736311848958 : JumpEnd); (20.9375 : 79.0736311848958); (20.9375 : 76.5833968098958); (23.6666666666667 : 76.5833968098958 : JumpStart); (23.8333333333333 : 76.5833968098958 : JumpEnd); (23.9375 : 76.5833968098958); (23.9375 : 79.6170068359375); (24.0104166666667 : 79.6170068359375 : JumpStart); (24.2083358333333 : 79.6170068359375 : JumpEnd); (25.4166666666667 : 79.6170068359375 : JumpStart); (25.5833333333333 : 79.6170068359375 : JumpEnd); (30.5 : 79.6170068359375); (30.5 : 79.25); (31.75 : 79.25); (31.75 : 79.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_RegistroInsumosGranjaLote" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="8558e68d-1e01-4423-b30b-aa902e519012" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.5 : 59.6771468098958); (14.7916666666667 : 59.6771468098958 : JumpStart); (15.1458333333333 : 59.6771468098958 : JumpEnd); (15.3292272514524 : 59.6771468098958 : JumpStart); (15.495893918119 : 59.6771468098958 : JumpEnd); (17.6666666666667 : 59.6771468098958 : JumpStart); (17.9583333333333 : 59.6771468098958 : JumpEnd); (18.0104166666667 : 59.6771468098958 : JumpStart); (18.1770833333333 : 59.6771468098958 : JumpEnd); (20.4791666666667 : 59.6771468098958 : JumpStart); (20.7083333333333 : 59.6771468098958 : JumpEnd); (31.2187475 : 59.6771468098958); (31.2187475 : 79.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InsumosGranjaEngorde/Tbl_InsumosGranjaEngorde_Tbl_RegistroInsumosGranjaLote" />
+      <nodes>
+        <classShapeMoniker Id="b2426da2-7a5b-4dbb-9953-a768c7f91b1a" />
+        <classShapeMoniker Id="8558e68d-1e01-4423-b30b-aa902e519012" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(24.31250375 : 84.125); (24.31250375 : 79.8397534179688); (25.4166666666667 : 79.8397534179688 : JumpStart); (25.5833333333333 : 79.8397534179688 : JumpEnd); (28.1666666666667 : 79.8397534179688 : JumpStart); (28.3333333333333 : 79.8397534179688 : JumpEnd); (30.75 : 79.8397534179688)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_InventarioGalera/Tbl_InventarioGalera_Tbl_RegistroInsumosGranjaLote" />
+      <nodes>
+        <classShapeMoniker Id="9dc15065-7da5-4912-9daf-a47ce1337116" />
+        <classShapeMoniker Id="8558e68d-1e01-4423-b30b-aa902e519012" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(16.75 : 100.57774983724); (18.03125 : 100.57774983724); (18.03125 : 95.1170068359375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_RubrosAve/Tbl_RubrosAve_Tbl_PesoCortes_detalle" />
+      <nodes>
+        <classShapeMoniker Id="346d7963-ca62-41a5-8283-9eca7d21e394" />
+        <classShapeMoniker Id="88bae7ea-2f63-40a1-ac0c-9a8fdbaefd75" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 15.7989005533854); (8.66666666666667 : 15.7989005533854 : JumpStart); (8.95833333333333 : 15.7989005533854 : JumpEnd); (9 : 15.7989005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_SalidaBodega/Tbl_SalidaBodega_Tbl_DetalleSalida" />
+      <nodes>
+        <classShapeMoniker Id="859ff881-fb26-414b-bdad-41bebfab9356" />
+        <classShapeMoniker Id="0a27ec4d-6d1d-4b9a-8349-3db2f9ce9e73" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 15.8277498372396); (6.25 : 15.8277498372396)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Clientes/Cat_Clientes_Tbl_SalidaBodega" />
+      <nodes>
+        <classShapeMoniker Id="700dafac-e277-4de4-bb7c-22d98f265b79" />
+        <classShapeMoniker Id="859ff881-fb26-414b-bdad-41bebfab9356" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.4062475 : 16.5785953776042); (1.4062475 : 17.1002018229167); (3.04166666666667 : 17.1002018229167 : JumpStart); (3.20833333333333 : 17.1002018229167 : JumpEnd); (5.79166666666667 : 17.1002018229167 : JumpStart); (5.95833333333333 : 17.1002018229167 : JumpEnd); (6.25 : 17.1002018229167)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Rutas/Cat_Rutas_Tbl_SalidaBodega" />
+      <nodes>
+        <classShapeMoniker Id="9df8b50a-d48e-47b2-b01d-3af0011026b6" />
+        <classShapeMoniker Id="859ff881-fb26-414b-bdad-41bebfab9356" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 11.9112616452324); (5.81607443490112 : 12.2273360801335 : JumpStart); (5.93392556509888 : 12.3451872103313 : JumpEnd); (6.0625 : 12.4737616452324); (6.0625 : 15.1326229186198); (6.25 : 15.1326229186198)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Usuarios/Cat_Usuarios_Tbl_SalidaBodega" />
+      <nodes>
+        <classShapeMoniker Id="96afcc90-669d-43d5-8990-9ba06cd96d59" />
+        <classShapeMoniker Id="859ff881-fb26-414b-bdad-41bebfab9356" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.125 : 17.875); (3.125 : 14.59375); (6.25 : 14.59375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Vendedores/Cat_Vendedores_Tbl_SalidaBodega" />
+      <nodes>
+        <classShapeMoniker Id="612c8533-dc9e-4563-8e58-0acda723de5b" />
+        <classShapeMoniker Id="859ff881-fb26-414b-bdad-41bebfab9356" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 87.2315991210938); (8.41666666666667 : 87.2315991210938 : JumpStart); (8.58333333333333 : 87.2315991210938 : JumpEnd); (9 : 87.2315991210938)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_SalidaComedor/Tbl_SalidaComedor_Tbl_DetalleSalidaInv_Comedor" />
+      <nodes>
+        <classShapeMoniker Id="15eeb841-63ae-43a0-82f7-639d9b34c5bd" />
+        <classShapeMoniker Id="3951b389-60d4-4d90-aa0c-ee2cd6cbaa62" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 76.3962679052484); (6.203125 : 77.0993929052484); (6.203125 : 87.2315991210938); (6.25 : 87.2315991210938)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_Tbl_SalidaComedor" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="15eeb841-63ae-43a0-82f7-639d9b34c5bd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 12.2917009049479); (9 : 12.2917009049479)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_SalidaHuevoClasificado/Tbl_SalidaHuevoClasificado_Tbl_DetalleSalidaHuevoClasificado" />
+      <nodes>
+        <classShapeMoniker Id="02dc9566-463c-4985-88a2-b49d2a0f39c7" />
+        <classShapeMoniker Id="7f781a0d-91f9-45fd-8cfe-08c0c86a0781" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 11.5493783226162); (6.25 : 11.5493783226162)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Usuarios/Cat_Usuarios_Tbl_SalidaHuevoClasificado" />
+      <nodes>
+        <classShapeMoniker Id="96afcc90-669d-43d5-8990-9ba06cd96d59" />
+        <classShapeMoniker Id="02dc9566-463c-4985-88a2-b49d2a0f39c7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(17.25 : 76.930467374399); (17.3473244349011 : 77.0277918093001 : JumpStart); (17.4651755650989 : 77.1456429394979 : JumpEnd); (17.6875 : 77.367967374399); (17.6875 : 79.65625); (18.3854146666667 : 79.65625 : JumpStart); (18.5520813333333 : 79.65625 : JumpEnd); (18.9166666666667 : 79.65625 : JumpStart); (19.0833333333333 : 79.65625 : JumpEnd); (20.4791666666667 : 79.65625 : JumpStart); (20.6458333333333 : 79.65625 : JumpEnd); (21 : 79.65625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/tbl_trabajadores/tbl_trabajadores_Tbl_EmpleadoConBeneficio" />
+      <nodes>
+        <classShapeMoniker Id="663b6212-4ae9-445f-8f0d-4a1bef8f1abf" />
+        <classShapeMoniker Id="feb76855-3503-426d-bc87-5faff05ee8ea" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(15.7500005 : 73.875); (15.7500005 : 73.1843082682292); (15.2708333333333 : 73.1843082682292 : JumpStart); (14.8541666666667 : 73.1843082682292 : JumpEnd); (14.5 : 73.1843082682292); (14.5 : 68.125); (14.4895833333333 : 68.125 : JumpStart); (14.3229166666667 : 68.125 : JumpEnd); (12.1458333333333 : 68.125 : JumpStart); (11.7916666666667 : 68.125 : JumpEnd); (11.625 : 68.125); (11.625 : 68.2753309710537); (11.4895833333333 : 68.2753309710537 : JumpStart); (11.3229166666667 : 68.2753309710537 : JumpEnd); (11.25 : 68.2753309710537)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/tbl_trabajadores/tbl_trabajadores_Tbl_FacturacionComedor" />
+      <nodes>
+        <classShapeMoniker Id="663b6212-4ae9-445f-8f0d-4a1bef8f1abf" />
+        <classShapeMoniker Id="832986ac-b3fd-4762-91d2-7fbba1db79d0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.68915465384615 : 76.4054996744792); (3.68915465384615 : 76.6711246744792); (3.85748097435898 : 76.6711246744792 : JumpStart); (4.02414764102564 : 76.6711246744792 : JumpEnd); (4.10914012820513 : 76.6711246744792 : JumpStart); (4.27580679487179 : 76.6711246744792 : JumpEnd); (4.36079928205129 : 76.6711246744792 : JumpStart); (4.52746594871795 : 76.6711246744792 : JumpEnd); (4.61245843589744 : 76.6711246744792 : JumpStart); (4.7791251025641 : 76.6711246744792 : JumpEnd); (5.47916666666667 : 76.6711246744792 : JumpStart); (5.91972856410263 : 76.6711246744792 : JumpEnd); (6.08870879692511 : 76.6711246744792 : JumpStart); (6.25537546359178 : 76.6711246744792 : JumpEnd); (11.3229166666667 : 76.6711246744792 : JumpStart); (11.5364583333333 : 76.6711246744792 : JumpEnd); (11.6666666666667 : 76.6711246744792 : JumpStart); (12.2083333333333 : 76.6711246744792 : JumpEnd); (14.7291666666667 : 76.6711246744792 : JumpStart); (14.8958333333333 : 76.6711246744792 : JumpEnd); (14.9791666666667 : 76.6711246744792 : JumpStart); (15.2395833333333 : 76.6711246744792 : JumpEnd); (15.25 : 76.6711246744792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_tbl_trabajadores" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="663b6212-4ae9-445f-8f0d-4a1bef8f1abf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.453125 : 84.875); (14.453125 : 74.03125); (14.7291666666667 : 74.03125 : JumpStart); (15.1458333333333 : 74.03125 : JumpEnd); (15.25 : 74.03125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Area/Cat_Area_tbl_trabajadores" />
+      <nodes>
+        <classShapeMoniker Id="f2b869f3-6363-4cfe-9b99-ff63b8cd05ae" />
+        <classShapeMoniker Id="663b6212-4ae9-445f-8f0d-4a1bef8f1abf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(13.5 : 94.75); (13.5 : 92.8285139973958); (14.25 : 92.8285139973958); (14.25 : 86.1939925130208); (14.78125 : 86.1939925130208); (14.78125 : 75.9447497558594); (14.8541666666667 : 75.9447497558594 : JumpStart); (15.2083333333333 : 75.9447497558594 : JumpEnd); (15.25 : 75.9447497558594)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Cargo/Cat_Cargo_tbl_trabajadores" />
+      <nodes>
+        <classShapeMoniker Id="88ce82d5-ed24-4257-ba35-e3b9af6e1533" />
+        <classShapeMoniker Id="663b6212-4ae9-445f-8f0d-4a1bef8f1abf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 76.3193448283253); (5.890625 : 76.7099698283253); (5.890625 : 76.3897075442208); (6.25091745577925 : 76.75)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/aspnet_Users/aspnet_Users_tbl_UsuarioEnComedor" />
+      <nodes>
+        <classShapeMoniker Id="668ae8a0-beff-4c33-90f1-578e7fbba93e" />
+        <classShapeMoniker Id="7c9eebaa-4309-400a-8c65-56f748d0354f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 78.8818470807292); (5.72916666666667 : 78.8818470807292 : JumpStart); (5.89583333333333 : 78.8818470807292 : JumpEnd); (5.90104166666667 : 78.8818470807292 : JumpStart); (6.33333333333333 : 78.8818470807292 : JumpEnd); (7.75 : 78.8818470807292); (7.75 : 77.9439925130208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Comedor/Cat_Comedor_tbl_UsuarioEnComedor" />
+      <nodes>
+        <classShapeMoniker Id="c592bb91-a6c2-44dc-8569-8a84c50929c2" />
+        <classShapeMoniker Id="7c9eebaa-4309-400a-8c65-56f748d0354f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.5 : 48.3950512695313); (20.5625 : 48.3950512695313); (20.5625 : 81.875); (22 : 81.875); (22 : 82.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Vehiculos/Tbl_Vehiculos_Tbl_DetalleDespacho" />
+      <nodes>
+        <classShapeMoniker Id="6199cea6-df6e-4d71-8172-6d77c4f9a9af" />
+        <classShapeMoniker Id="42bcdc26-9da1-4369-bd67-517d9417295d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.5 : 49.6651025390625); (10.5 : 52.625); (11.875 : 52.625); (11.875 : 69.4239005533854); (11.9166666666667 : 69.4239005533854 : JumpStart); (12.1458333333333 : 69.4239005533854 : JumpEnd); (12.25 : 69.4239005533854)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Tbl_Vehiculos/Tbl_Vehiculos_Tbl_DetallesEsteticos" />
+      <nodes>
+        <classShapeMoniker Id="6199cea6-df6e-4d71-8172-6d77c4f9a9af" />
+        <classShapeMoniker Id="e9d97f4a-9252-4e5a-ae97-905f52d93309" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 48.3181469726563); (9.5 : 48.3181469726563)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Cedes/Cat_Cedes_Tbl_Vehiculos" />
+      <nodes>
+        <classShapeMoniker Id="5016bfbf-fd7d-41ca-a266-dc28a41ceb77" />
+        <classShapeMoniker Id="6199cea6-df6e-4d71-8172-6d77c4f9a9af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 46.2219962565104); (10.5 : 46.2219962565104); (10.5 : 47.125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_Combustible/Cat_Combustible_Tbl_Vehiculos" />
+      <nodes>
+        <classShapeMoniker Id="f5f54256-ccd3-4f10-8605-c63bd08e22af" />
+        <classShapeMoniker Id="6199cea6-df6e-4d71-8172-6d77c4f9a9af" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 50.4431469726563); (9.04166666666667 : 50.4431469726563 : JumpStart); (9.20833333333333 : 50.4431469726563 : JumpEnd); (9.9687475 : 50.4431469726563); (9.9687475 : 49.6651025390625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/ayosabdDataContext/Cat_MarcaModeloCarros/Cat_MarcaModeloCarros_Tbl_Vehiculos" />
+      <nodes>
+        <classShapeMoniker Id="629b470b-5921-46cc-bc30-338f0fce9c8d" />
+        <classShapeMoniker Id="6199cea6-df6e-4d71-8172-6d77c4f9a9af" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

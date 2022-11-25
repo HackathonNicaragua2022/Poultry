@@ -1,0 +1,310 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterLogistica.Master.cs" Inherits="POULTRY.masters.masterLogistica" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="../favicon.ico" />
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/fontawesome-free/css/all.min.css" />
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <!-- Tempusdominus Bootstrap 4 -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css" />
+    <!-- iCheck -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/icheck-bootstrap/icheck-bootstrap.min.css" />
+    <!-- JQVMap -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/jqvmap/jqvmap.min.css" />
+    <!-- Theme style -->
+    <link rel="stylesheet" href="../AdminTemplate/dist/css/adminlte.min.css" />
+    <!-- overlayScrollbars -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/overlayScrollbars/css/OverlayScrollbars.min.css" />
+    <!-- Daterange picker -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/daterangepicker/daterangepicker.css" />
+    <!-- summernote -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/summernote/summernote-bs4.min.css" />
+    <!-- SweetAlert2 -->
+    <%--<link rel="stylesheet" href="../AdminTemplate/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css" />--%>
+    <!-- Toastr -->
+    <%--<link rel="stylesheet" href="../AdminTemplate/plugins/toastr/toastr.min.css" />--%>
+
+
+    <link href="../AdminTemplate/open-iconic-master/font/css/open-iconic-bootstrap.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        /*Filter styles*/
+        .saturate {
+            filter: saturate(3);
+        }
+
+        .grayscale {
+            filter: grayscale(100%);
+        }
+
+        .contrast {
+            filter: contrast(160%);
+        }
+
+        .brightness {
+            filter: brightness(0.25);
+        }
+
+        .blur {
+            filter: blur(3px);
+        }
+
+        .invert {
+            filter: invert(100%);
+        }
+
+        .sepia {
+            filter: sepia(100%);
+        }
+
+        .huerotate {
+            filter: hue-rotate(180deg);
+        }
+
+        .rss.opacity {
+            filter: opacity(50%);
+        }
+    </style>
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+    <form id="form1" runat="server">
+        <div>
+            <div class="wrapper">
+
+                <!-- Preloader -->
+                <div class="preloader flex-column justify-content-center align-items-center">
+                    <img class="animation__shake" src="../imagenes/logop-w.png" alt="POULTRY logo" height="225" />
+                </div>
+
+                <!-- Navbar -->
+                <nav class="main-header navbar navbar-expand  navbar-light bg-success">
+                    <!-- Left navbar links -->
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+                        </li>
+                        <li class="nav-item d-none d-sm-inline-block">
+                            <a href="../Admin-gerencial/home-admin.aspx" class="nav-link">Inicio</a>
+                        </li>
+                    </ul>
+
+                    <!-- Right navbar links -->
+                    <ul class="navbar-nav ml-auto">
+                        <!-- Navbar Search -->                      
+
+                        <li class="nav-item">
+                            <a class="nav-link" data-widget="fullscreen" href="#" role="button">
+                                <i class="fas fa-expand-arrows-alt"></i>
+                            </a>
+                        </li>
+                      
+                    </ul>
+                </nav>
+                <!-- /.navbar -->
+
+                <!-- Main Sidebar Container -->
+                <aside class="main-sidebar sidebar-dark-olive nav-child-indent ">
+                    <!-- Brand Logo -->
+                    <a href="../ModuloClasificadoraHuevos/homebodegahuevo.aspx" class="brand-link bg-success">
+                        <img src="../imagenes/logop-w.png" alt="AdminLTE Logo" class="brand-image" />
+                        <span class="brand-text font-weight-light">POULTRY SYSTEM</span>
+                    </a>
+                    <!-- Sidebar -->
+                    <div class="sidebar">
+                        <!-- Sidebar user panel (optional) -->
+                        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                            <div class="image">
+                                <span class="iconic iconic-media-play iconic-sm" title="media play" aria-hidden="true"></span>
+                            </div>
+                            <div class="info">
+                                <a href="#" class="d-block">BIENVENIDO
+                                    <asp:LoginName ID="LoginName1" runat="server" CssClass="text-uppercase" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                            <div class="info">
+                                <div class="image align-content-center" align="center">
+                                    <ion-icon style="color: white;" size="large" name="people-circle-outline"></ion-icon>
+                                    <asp:LoginStatus ID="LoginStatus1" runat="server" CssClass="text-uppercase" />
+                                </div>
+                            </div>
+                        </div>
+                      
+
+                        <!-- Sidebar Menu -->
+                        <nav class="mt-2">
+                            <ul class="nav nav-pills nav-sidebar flex-column nav-child-indent" data-widget="treeview" role="menu" data-accordion="false">
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-car-side"></i>
+                                        <p>
+                                            Catalogos<i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="../ModuloLogistica/proveedoresCombustible.aspx" class="nav-link">
+                                                <i class="fa fa-truck nav-icon" aria-hidden="true"></i>
+                                                <p>Proveedores Combustible</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-car-side"></i>
+                                        <p>
+                                            Inventario Vehicular<i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="../ModuloLogistica/InventarioVehicular.aspx" class="nav-link">
+                                                <i class="fa fa-truck nav-icon" aria-hidden="true"></i>
+                                                <p>Inventario Vehicular</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-gas-pump"></i>
+                                        <p>
+                                            Control de Combustible<i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="../ModuloLogistica/ingresoCombustible.aspx" class="nav-link">
+                                                <i class="nav-icon fas fa-gas-pump" aria-hidden="true"></i>
+                                                <p>Registro de Entrada</p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../ModuloLogistica/InventarioVehicular.aspx" class="nav-link">
+                                                <i class="nav-icon fas fa-gas-pump" aria-hidden="true"></i>
+                                                <p>Registro de Salida</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="pages/kanban.html" class="nav-link">
+                                        <i class="nav-icon fas fa-gas-pump"></i>
+                                        <p>
+                                            Inventario Combustible             
+                                        </p>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-book-reader"></i>
+                                        <p>
+                                            Reportes<i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="#" class="nav-link">
+                                                <i class="nav-icon fas fa-inbox" aria-hidden="true"></i>
+                                                <p>Entradas de combustible</p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="#" class="nav-link">
+                                                <i class="nav-icon fas fa-less-than" aria-hidden="true"></i>
+                                                <p>Salidas de Combustible</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                        <!-- /.sidebar-menu -->
+                    </div>
+                    <!-- /.sidebar -->
+                </aside>
+
+                <!-- Content Wrapper. Contains page content -->
+                <div class="content-wrapper">
+                    <!-- Main content -->
+                    <section class="content">
+                        <div class="container-fluid">
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                        <!-- /.container-fluid -->
+                    </section>
+                    <!-- /.content -->
+                </div>
+                <!-- /.content-wrapper -->
+                <footer class="main-footer">
+                    <strong>Copyright &copy; 2021-2022 <a href="https://ayemadeoro.com.ni">POULTRY SYSTEM SA</a></strong>
+                    All rights reserved.
+    <div class="float-right d-none d-sm-inline-block">
+        <b>Version</b> 1.0.0.0-pa
+    </div>
+                </footer>
+
+                <!-- Control Sidebar -->
+                <aside class="control-sidebar control-sidebar-dark">
+                    <!-- Control sidebar content goes here -->
+                </aside>
+                <!-- /.control-sidebar -->
+            </div>
+            <!-- ./wrapper -->
+        </div>
+    </form>
+
+    <!-- jQuery -->
+    <script src="../AdminTemplate/plugins/jquery/jquery.min.js"></script>
+    <!-- jQuery UI 1.11.4 -->
+    <script src="../AdminTemplate/plugins/jquery-ui/jquery-ui.min.js"></script>
+    <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+    <script>
+        $.widget.bridge('uibutton', $.ui.button)
+    </script>
+    <!-- Bootstrap 4 -->
+    <script src="../AdminTemplate/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- ChartJS -->
+    <script src="../AdminTemplate/plugins/chart.js/Chart.min.js"></script>
+    <!-- Sparkline -->
+    <script src="../AdminTemplate/plugins/sparklines/sparkline.js"></script>
+    <!-- JQVMap -->
+    <script src="../AdminTemplate/plugins/jqvmap/jquery.vmap.min.js"></script>
+    <script src="../AdminTemplate/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
+    <!-- jQuery Knob Chart -->
+    <script src="../AdminTemplate/plugins/jquery-knob/jquery.knob.min.js"></script>
+    <!-- daterangepicker -->
+    <script src="../AdminTemplate/plugins/moment/moment.min.js"></script>
+    <script src="../AdminTemplate/plugins/daterangepicker/daterangepicker.js"></script>
+    <!-- Tempusdominus Bootstrap 4 -->
+    <script src="../AdminTemplate/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+    <!-- Summernote -->
+    <script src="../AdminTemplate/plugins/summernote/summernote-bs4.min.js"></script>
+    <!-- overlayScrollbars -->
+    <script src="../AdminTemplate/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="../AdminTemplate/dist/js/adminlte.js"></script>
+
+    <!-- SweetAlert2 -->
+    <%--<script src="../AdminTemplate/plugins/sweetalert2/sweetalert2.min.js"></script>--%>
+    <!-- Toastr -->
+    <%--<script src="../AdminTemplate/plugins/toastr/toastr.min.js"></script>--%>
+
+    <asp:ContentPlaceHolder ID="debajoScripts" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

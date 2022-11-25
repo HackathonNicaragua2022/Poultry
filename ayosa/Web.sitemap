@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode url="POULTRY " title="Raiz"  description="Raiz del Sitio">
+    <siteMapNode url="Admin" title="Administracion"  description="Raiz del Sitio">
+      <siteMapNode url="~/Admin/arealaboral.aspx" title="Area laboral"  description="Catalogo de las areas laborales de la empresa"/>
+      <siteMapNode url="~/Admin/CancelacionFacturasComedor.aspx" title="Cancelacion de Facturas Comedor POULTRY "  description="Cancelacion de factuas de Comedor"/>
+      <siteMapNode url="~/Admin/cancelarFacturas.aspx" title="Cancelar Facturas v2"  description="Puede Cancelar las Facturas de los trabajadores de la empresa"/>
+      <siteMapNode url="~/Admin/cargolaboral.aspx" title="Catalogo de Cargos laborales"  description="Todos los Cargos laborales de la empresa"/>
+      <siteMapNode url="~/Admin/categoriaproducto.aspx" title="Catalogo de categorias de Productos"  description="Todas las Categorias usadas en el comedor"/>
+      <siteMapNode url="~/Admin/proveedores.aspx" title="Catalogo de proveedores comedor"  description="Todos los proveedores del Comedor"/>
+      <siteMapNode url="~/Admin/trabajadores.aspx" title="Catalogo de trabajadores"  description="Todos los trabajadores de la empresa"/>
+    </siteMapNode>
+    <siteMapNode url="Admin-gerencial" title="Genrencia"  description="Sitio Generencial">
+      <siteMapNode url="~/Admin-gerencial/ConteoPollos.aspx" title="Conteo de Pollos"  description="Pagina para ver en tiempo real el contador de pollos digital"/>
+      <siteMapNode url="~/Admin-gerencial/home-admin.aspx" title="Pantalla de Inicio del DashBoard"  description="Pantalla home del sitio administrativo gerencial"/>
+      <siteMapNode url="~/Admin-gerencial/monitoreoMatanzaPesoVivo.aspx" title="Control de Remisiones y Peso Vivo"  description="Puede ver y minitoriar las remisiones de la granja al matadero"/>
+      <siteMapNode url="~/Admin-gerencial/ResumenPesoVivo.aspx" title="Resumen de Remisines Diarias"  description="Pequeño resumen de las remisiones de granja a matadero"/>
+    </siteMapNode>
+    <siteMapNode url="CajaChicaComedor" title="Caja Chica Comedor"  description="Raiz del Sitio">
+      <siteMapNode url="~/CajaChicaComedor/cajaChicaComedor.aspx" title="Caja chica del dia del Comedor"  description="Puede ver la caja chica del dia del comedor"/>
+      <siteMapNode url="~/CajaChicaComedor/CajasComedor.aspx" title="Cajas Diarias del Comedor POULTRY "  description="Puede administrar las cajas chicas del comedor creadas diariamente"/>      
+    </siteMapNode>
+    <siteMapNode url="ConfiguracionGranja" title="Configuracion de la Granja"  description="Configuraciones">
+      <siteMapNode url="~/ConfiguracionGranja/configuracionGranja.aspx" title="Configuracion de la Granja de broilers"  description="Puede Configurar todo lo referente a la Granja de Broilers"/>
+      <siteMapNode url="~/ConfiguracionGranja/PlantaProcesamiento.aspx" title="Configuracion de la Planta de Procesamiento"  description="Puede configurar todo lo referente a la planta de procesamiento"/>
+    </siteMapNode>
+    <siteMapNode url="controlfacturas-comedor" title="Control de Facturas del Comedor"  description="Puede administrar las facturas por trabajador">
+      <siteMapNode url="~/controlfacturas-comedor/facturasxTrabajadorcomedor.aspx" title="Visualizacion de Facturas del Comedor POULTRY  por trabajador "  description="Administre las facturas del Comedor por trabajador"/>
+    </siteMapNode>
+    <siteMapNode url="facturadorescomedor" title="Facturadores Comedor"  description="Todo relacionado con el Comedor POULTRY ">
+      <siteMapNode url="~/facturadorescomedor/comedor.aspx" title="Comedor POULTRY"  description="Puede Facturar productos del comedor"/>
+      <siteMapNode url="~/facturadorescomedor/IngresoComedor.aspx" title="Ingreso de Inventario a Comedor"  description="Puede ingresar productos al inventario del Comedor"/>
+      <siteMapNode url="~/facturadorescomedor/inventarioComedor.aspx" title="Inventario del Comedor"  description="Muestra el Inventario actual del Comedor"/>
+      <siteMapNode url="~/facturadorescomedor/salidaInventarioComedor.aspx" title="Egresos de Inventario Comedor"  description="Egreso de inventario del Comedor"/>
+    </siteMapNode>
+    <siteMapNode url="Granja" title="Granja"  description="Granja">
+      <siteMapNode url="~/Granja/RemisionAMAtadero.aspx" title="Remisiones a Matadero"  description="Crea Remisiones al Matadero desde la Granja seleccionando un proceso"/>      
+    </siteMapNode>
+    <siteMapNode url="LOTES" title="Lotes de Broilers"  description="Lotes de las galeras de broliers">
+      <siteMapNode url="~/LOTES/InventarioLote.aspx" title="Inventario de Lotes"  description="Puede Ver y administrar los lotes de Broilers por Galera"/>
+      <siteMapNode url="~/LOTES/LotesBroilers.aspx" title="Lotes de Broilers"  description="Maneja los Lotes existentes de Broilers"/>
+    </siteMapNode>
+    <siteMapNode url="ProduccionDiaria_matadero" title="Produccion Diria Matadero"  description="Granja">
+      <siteMapNode url="~/ProduccionDiaria_matadero/CompraPollos.aspx" title="Procesos Diarios de Matanza"  description="Creacion de Procesos para matanza de Broilers Diariamente"/>
+      <siteMapNode url="~/ProduccionDiaria_matadero/CalendarioMatanza.aspx" title="Calendario de Matanza"  description="Muestra las fechas programadas para las proximas matanzas"/>
+      <siteMapNode url="~/ProduccionDiaria_matadero/procesosEnSistema.aspx" title="Procesos en el Sistema"  description="Puede ver todos los procesos creados y administrarlos"/>
+    </siteMapNode>
+    <siteMapNode url="Usuarios" title="Granja"  description="Granja">
+      <siteMapNode url="~/Usuarios/roles.aspx" title="Roles por Usuarios (Esta mis pagina)"  description="Administracion de Roles de Usuario en el sistema"/>
+    </siteMapNode>
+    <siteMapNode url="ModuloLogistica" title="Modulo Logistica"  description="Modulo encargado del control de combustible y flota vehicular">
+      <siteMapNode url="~/ModuloLogistica/InventarioVehicular.aspx" title="Inventario de Vehiculos"  description="Listado de vehiculos asignados a todas las sedes de POULTRY"/>
+      <siteMapNode url="~/ModuloLogistica/galeriaVehiculos.aspx" title="Galeria de imagenes por Vehiculos"  description="Suba y administre las imagenes de los vehiculos de la empresa"/>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

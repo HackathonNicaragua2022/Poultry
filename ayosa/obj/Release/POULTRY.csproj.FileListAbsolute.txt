@@ -1,0 +1,220 @@
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ayosa.dll.config
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ayosa.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ayosa.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\accesoDatos.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Charts.v15.2.Core.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.CodeConverter.v15.2.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.CodeParser.v15.2.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Data.v15.2.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.DataAccess.v15.2.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Office.v15.2.Core.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Printing.v15.2.Core.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.RichEdit.v15.2.Core.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Sparkline.v15.2.Core.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Web.ASPxThemes.v15.2.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Web.v15.2.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Xpo.v15.2.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.XtraCharts.v15.2.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.XtraGauges.v15.2.Core.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.XtraReports.v15.2.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.XtraReports.v15.2.Web.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ultil.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\itextsharp.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\TC_ConsumoWEB_VB.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\BouncyCastle.Crypto.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\accesoDatos.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ultil.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Data.v15.2.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.DataAccess.v15.2.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Office.v15.2.Core.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Printing.v15.2.Core.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.RichEdit.v15.2.Core.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Sparkline.v15.2.Core.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Web.v15.2.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.Xpo.v15.2.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.XtraCharts.v15.2.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.XtraGauges.v15.2.Core.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.XtraReports.v15.2.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\DevExpress.XtraReports.v15.2.Web.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\itextsharp.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\TC_ConsumoWEB_VB.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\TC_ConsumoWEB_VB.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\BouncyCastle.Crypto.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.Data.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.Data.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.Data.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.Data.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.DataAccess.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.DataAccess.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.DataAccess.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.DataAccess.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.Web.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.Web.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.Web.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.Web.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.Xpo.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.Xpo.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.Xpo.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.Xpo.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\de\DevExpress.XtraReports.v15.2.Web.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\es\DevExpress.XtraReports.v15.2.Web.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ja\DevExpress.XtraReports.v15.2.Web.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\bin\ru\DevExpress.XtraReports.v15.2.Web.resources.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\POULTRY.csprojResolveAssemblyReference.cache
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\ayosa.Properties.Resources.resources
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\POULTRY.Reportes.CajaDelDia.resources
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\POULTRY.Reportes.facturascomedorxRangoFecha.resources
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\facturasPendientesResumenTotalCobrar.resources
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\hojaRutas.resources
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\POULTRY.Reportes.PesoVivoReport.resources
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\POULTRY.Reportes.TodasLasCajas.resources
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\POULTRY.Reportes.TodaslasFacturasCreditoPendientes.resources
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\POULTRY.csproj.GenerateResource.Cache
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\ayosa.dll.licenses
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\ayosa.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ayosa\obj\Release\ayosa.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ayosa.dll.config
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ayosa.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ayosa.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\accesoDatos.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Charts.v15.2.Core.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.CodeConverter.v15.2.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.CodeParser.v15.2.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Data.v15.2.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.DataAccess.v15.2.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Office.v15.2.Core.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.PivotGrid.v15.2.Core.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Printing.v15.2.Core.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.RichEdit.v15.2.Core.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Sparkline.v15.2.Core.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Web.ASPxThemes.v15.2.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Web.v15.2.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Xpo.v15.2.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.XtraCharts.v15.2.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.XtraGauges.v15.2.Core.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.XtraReports.v15.2.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.XtraReports.v15.2.Web.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ultil.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\itextsharp.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\TC_ConsumoWEB_VB.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\BouncyCastle.Crypto.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\accesoDatos.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ultil.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Data.v15.2.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.DataAccess.v15.2.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Office.v15.2.Core.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.PivotGrid.v15.2.Core.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Printing.v15.2.Core.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.RichEdit.v15.2.Core.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Sparkline.v15.2.Core.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Web.v15.2.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.Xpo.v15.2.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.XtraCharts.v15.2.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.XtraGauges.v15.2.Core.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.XtraReports.v15.2.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\DevExpress.XtraReports.v15.2.Web.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\itextsharp.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\TC_ConsumoWEB_VB.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\TC_ConsumoWEB_VB.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\BouncyCastle.Crypto.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.Data.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.Data.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.Data.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.Data.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.DataAccess.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.DataAccess.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.DataAccess.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.DataAccess.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.Web.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.Web.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.Web.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.Web.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.Xpo.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.Xpo.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.Xpo.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.Xpo.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\de\DevExpress.XtraReports.v15.2.Web.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\es\DevExpress.XtraReports.v15.2.Web.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ja\DevExpress.XtraReports.v15.2.Web.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\bin\ru\DevExpress.XtraReports.v15.2.Web.resources.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\POULTRY.csprojResolveAssemblyReference.cache
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\ayosa.Properties.Resources.resources
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\POULTRY.Reportes.CajaDelDia.resources
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\POULTRY.Reportes.facturascomedorxRangoFecha.resources
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\facturasPendientesResumenTotalCobrar.resources
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\hojaRutas.resources
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\POULTRY.Reportes.PesoVivoReport.resources
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\POULTRY.Reportes.TodasLasCajas.resources
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\POULTRY.Reportes.TodaslasFacturasCreditoPendientes.resources
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\POULTRY.csproj.GenerateResource.Cache
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\ayosa.dll.licenses
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\ayosa.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ayosa\obj\Release\ayosa.pdb

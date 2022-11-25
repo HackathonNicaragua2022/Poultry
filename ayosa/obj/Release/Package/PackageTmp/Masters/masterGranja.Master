@@ -1,0 +1,411 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterGranja.Master.cs" Inherits="POULTRY.masters.masterGranja" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es-es">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="../favicon.ico" />
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/fontawesome-free/css/all.min.css" />
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <!-- Tempusdominus Bootstrap 4 -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css" />
+    <!-- iCheck -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/icheck-bootstrap/icheck-bootstrap.min.css" />
+    <!-- JQVMap -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/jqvmap/jqvmap.min.css" />
+    <!-- Theme style -->
+    <link rel="stylesheet" href="../AdminTemplate/dist/css/adminlte.min.css" />
+    <!-- overlayScrollbars -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/overlayScrollbars/css/OverlayScrollbars.min.css" />
+    <!-- Daterange picker -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/daterangepicker/daterangepicker.css" />
+    <!-- summernote -->
+    <link rel="stylesheet" href="../AdminTemplate/plugins/summernote/summernote-bs4.min.css" />
+    <!-- SweetAlert2 -->
+    <%--<link rel="stylesheet" href="../AdminTemplate/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css" />--%>
+    <!-- Toastr -->
+    <%--<link rel="stylesheet" href="../AdminTemplate/plugins/toastr/toastr.min.css" />--%>
+
+
+    <link href="../AdminTemplate/open-iconic-master/font/css/open-iconic-bootstrap.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        /*Filter styles*/
+        .saturate {
+            filter: saturate(3);
+        }
+
+        .grayscale {
+            filter: grayscale(100%);
+        }
+
+        .contrast {
+            filter: contrast(160%);
+        }
+
+        .brightness {
+            filter: brightness(0.25);
+        }
+
+        .blur {
+            filter: blur(3px);
+        }
+
+        .invert {
+            filter: invert(100%);
+        }
+
+        .sepia {
+            filter: sepia(100%);
+        }
+
+        .huerotate {
+            filter: hue-rotate(180deg);
+        }
+
+        .rss.opacity {
+            filter: opacity(50%);
+        }
+    </style>
+</head>
+<body class="hold-transition sidebar-mini layout-fixed">
+    <form id="form1" runat="server">
+        <div>
+            <div class="wrapper">
+
+                <!-- Preloader -->
+                <div class="preloader flex-column justify-content-center align-items-center">
+                    <img class="animation__shake" src="../imagenes/logop-w.png" alt="POULTRY logo" height="225" />
+                </div>
+
+                <!-- Navbar -->
+                <nav class="main-header navbar navbar-expand  navbar-light bg-success">
+                    <!-- Left navbar links -->
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+                        </li>
+                        <li class="nav-item d-none d-sm-inline-block">
+                            <a href="../GranjaSanFrancisco/homeGranja.aspx" class="nav-link">Inicio</a>
+                        </li>
+                    </ul>
+
+                    <!-- Right navbar links -->
+                    <ul class="navbar-nav ml-auto">
+                     
+                        <li class="nav-item">
+                            <a class="nav-link" data-widget="fullscreen" href="#" role="button">
+                                <i class="fas fa-expand-arrows-alt"></i>
+                            </a>
+                        </li>                      
+                    </ul>
+                </nav>
+                <!-- /.navbar -->
+
+                <!-- Main Sidebar Container -->
+                <aside class="main-sidebar sidebar-dark-olive nav-child-indent ">
+                    <!-- Brand Logo -->
+                    <a href="../GranjaSanFrancisco/homeGranja.aspx" class="brand-link bg-success">
+                        <img src="../imagenes/logop-w.png" alt="AdminLTE Logo" class="brand-image" />
+                        <span class="brand-text font-weight-light">POULTRY SYSTEM</span>
+                    </a>
+                    <!-- Sidebar -->
+                    <div class="sidebar">
+                        <!-- Sidebar user panel (optional) -->
+                        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                            <div class="image">
+                                <span class="iconic iconic-media-play iconic-sm" title="media play" aria-hidden="true"></span>
+                            </div>
+                            <div class="info">
+                                <a href="#" class="d-block">BIENVENIDO
+                                    <asp:LoginName ID="LoginName1" runat="server" CssClass="text-uppercase" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                            <div class="info">
+                                <div class="image align-content-center" align="center">
+                                    <ion-icon style="color: white;" size="large" name="people-circle-outline"></ion-icon>
+                                    <asp:LoginStatus ID="LoginStatus1" runat="server" CssClass="text-uppercase" />
+                                </div>
+                            </div>
+                        </div>
+                     
+
+                        <!-- Sidebar Menu -->
+                        <nav class="mt-2">
+                            <ul class="nav nav-pills nav-sidebar flex-column nav-child-indent" data-widget="treeview" role="menu" data-accordion="false">
+
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-user"></i>
+                                        <p>
+                                            CATALOGOS<i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/proveedoresAves.aspx" class="nav-link">
+                                                <i class="fa fa-truck nav-icon" aria-hidden="true"></i>
+                                                <p>Proveedores Pollo de engorde</p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/CatalogoInsumoGranja.aspx" class="nav-link">
+                                                <i class="fa fa-code-branch nav-icon" aria-hidden="true"></i>
+                                                <p>Lista de insumos para granja</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-book-open"></i>
+                                        <p>
+                                            REPORTES<i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/ReporteIngreoLotes.aspx" class="nav-link">
+                                                <i class="fa fa-truck nav-icon" aria-hidden="true"></i>
+                                                <p>Ingreso de Lote</p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/reporteAlimentosRecibidos.aspx" class="nav-link">
+                                                <i class="fa fa-truck nav-icon" aria-hidden="true"></i>
+                                                <p>Alimentos Recibidos</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-industry"></i>
+                                        <p>
+                                            PLANTA MATADERO SF<i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/monitoreoMatanza.aspx" class="nav-link">
+                                                <i class="fa fa-truck nav-icon" aria-hidden="true"></i>
+                                                <p>Monitoreo de Matanza</p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/RemisionAMatadero.aspx" class="nav-link">
+                                                <i class="fa fa-truck nav-icon" aria-hidden="true"></i>
+                                                <p>Envio de Aves</p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/AvesEnvidasMatadero.aspx" class="nav-link">
+                                                <i class="fa fa-truck nav-icon" aria-hidden="true"></i>
+                                                <p>Aves Enviadas</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-building"></i>
+                                        <p>
+                                            CONTROL DE LOTES<i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/RegistroMortalidad.aspx" class="nav-link">
+                                                <i class="nav-icon fas fa-book-dead"></i>
+                                                <p>
+                                                    REGISTRO MORTALIDAD
+                                                </p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/RegistroAlimentos.aspx" class="nav-link">
+                                                <i class="nav-icon fas fa-seedling"></i>
+                                                <p>
+                                                    REGISTRO ALIMENTO
+                                                </p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/registroInsumosGenerales.aspx" class="nav-link">
+                                                <i class="nav-icon fas fa-bookmark"></i>
+                                                <p>
+                                                    REGISTRO INSUMOS GENERALES
+                                                </p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/registroMedicamentos.aspx" class="nav-link">
+                                                <i class="nav-icon fas fa-book-medical"></i>
+                                                <p>
+                                                    REGISTRO MEDICAMENTOS
+                                                </p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/TratamientosMedicos.aspx" class="nav-link">
+                                                <i class="nav-icon fas fa-book-medical"></i>
+                                                <p>
+                                                    REGISTRO TRATAMIENTOS
+                                                </p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-feather"></i>
+                                        <p>
+                                            CONTROL DE LOTES<i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/IngresoLote.aspx" class="nav-link">
+                                                <i class="nav-icon fas fa-feather"></i>
+                                                <p>
+                                                    INGRESO DE LOTE
+                                                </p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/ajutesInventarioLoteGranja.aspx" class="nav-link">
+                                                <i class="nav-icon fas fa-feather-alt"></i>
+                                                <p>
+                                                    AJUSTE DE LOTE
+                                                </p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="../GranjaSanFrancisco/IngresoLote.aspx" class="nav-link">
+                                        <i class="nav-icon fas fa-tractor"></i>
+                                        <p>
+                                            RECIBO DE CONCENTRADO A GRANJA
+                                        </p>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="../GranjaSanFrancisco/LotesBroilers.aspx" class="nav-link">
+                                        <i class="nav-icon fas fa-columns"></i>
+                                        <p>
+                                            LOTES BROILERS
+                                        </p>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        <i class="nav-icon fas fa-cogs"></i>
+                                        <p>
+                                            CONFIGURACIONES
+                <i class="right fas fa-angle-left"></i>
+                                        </p>
+                                    </a>
+                                    <ul class="nav nav-treeview">
+                                        <li class="nav-item">
+                                            <a href="../ConfiguracionGranja/configuracionGranja.aspx" class="nav-link">
+                                                <i class="far fa-building nav-icon"></i>
+                                                <p>Granja de Produccion</p>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="../GranjaSanFrancisco/preciosInsumosGranja.aspx" class="nav-link">
+                                                <i class="fas fa-dollar-sign nav-icon"></i>
+                                                <p>Precios de insumos</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                        <!-- /.sidebar-menu -->
+                    </div>
+                    <!-- /.sidebar -->
+                </aside>
+
+                <!-- Content Wrapper. Contains page content -->
+                <div class="content-wrapper">
+                    <!-- Main content -->
+                    <section class="content">
+                        <div class="container-fluid">
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                        <!-- /.container-fluid -->
+                    </section>
+                    <!-- /.content -->
+                </div>
+                <!-- /.content-wrapper -->
+                <footer class="main-footer">
+                    <strong>Copyright &copy; 2021-2022 <a href="https://ayemadeoro.com.ni">POULTRY SYSTEM SA</a></strong>
+                    All rights reserved.
+    <div class="float-right d-none d-sm-inline-block">
+        <b>Version</b> 1.0.0.0-pa
+    </div>
+                </footer>
+
+                <!-- Control Sidebar -->
+                <aside class="control-sidebar control-sidebar-dark">
+                    <!-- Control sidebar content goes here -->
+                </aside>
+                <!-- /.control-sidebar -->
+            </div>
+            <!-- ./wrapper -->
+        </div>
+    </form>
+
+    <!-- jQuery -->
+    <script src="../AdminTemplate/plugins/jquery/jquery.min.js"></script>
+    <!-- jQuery UI 1.11.4 -->
+    <script src="../AdminTemplate/plugins/jquery-ui/jquery-ui.min.js"></script>
+    <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+    <script>
+        $.widget.bridge('uibutton', $.ui.button)
+    </script>
+    <!-- Bootstrap 4 -->
+    <script src="../AdminTemplate/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- ChartJS -->
+    <script src="../AdminTemplate/plugins/chart.js/Chart.min.js"></script>
+    <!-- Sparkline -->
+    <script src="../AdminTemplate/plugins/sparklines/sparkline.js"></script>
+    <!-- JQVMap -->
+    <script src="../AdminTemplate/plugins/jqvmap/jquery.vmap.min.js"></script>
+    <script src="../AdminTemplate/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
+    <!-- jQuery Knob Chart -->
+    <script src="../AdminTemplate/plugins/jquery-knob/jquery.knob.min.js"></script>
+    <!-- daterangepicker -->
+    <script src="../AdminTemplate/plugins/moment/moment.min.js"></script>
+    <script src="../AdminTemplate/plugins/daterangepicker/daterangepicker.js"></script>
+    <!-- Tempusdominus Bootstrap 4 -->
+    <script src="../AdminTemplate/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+    <!-- Summernote -->
+    <script src="../AdminTemplate/plugins/summernote/summernote-bs4.min.js"></script>
+    <!-- overlayScrollbars -->
+    <script src="../AdminTemplate/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="../AdminTemplate/dist/js/adminlte.js"></script>
+
+    <!-- SweetAlert2 -->
+    <%--<script src="../AdminTemplate/plugins/sweetalert2/sweetalert2.min.js"></script>--%>
+    <!-- Toastr -->
+    <%--<script src="../AdminTemplate/plugins/toastr/toastr.min.js"></script>--%>
+
+    <asp:ContentPlaceHolder ID="debajoScripts" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D992CAFD-C9AE-4225-A48A-E49623B85401}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>accesoDatos</RootNamespace>
+    <AssemblyName>accesoDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministracionFacturasTrabajadorComedor.cs" />
+    <Compile Include="ayosabd.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ayosabd.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="BodegaHuevo\BodegaCentral.cs" />
+    <Compile Include="BodegaHuevo\clasificacionHuevo.cs" />
+    <Compile Include="BodegaHuevo\DetalleEgreso.cs" />
+    <Compile Include="BodegaHuevo\DetalleIngreso.cs" />
+    <Compile Include="BodegaHuevo\EgresosDeHuevos.cs" />
+    <Compile Include="BodegaHuevo\ingresoHuevos.cs" />
+    <Compile Include="BodegaHuevo\InresosDeHuevos.cs" />
+    <Compile Include="BodegaHuevo\salidasHuevos.cs" />
+    <Compile Include="BodegaHuevo\tipoHuevo.cs" />
+    <Compile Include="BodegaHuevo\tipoIngreso.cs" />
+    <Compile Include="CajaChicaComedor\CajaChicaComedor_obj.cs" />
+    <Compile Include="CajaChicaComedor\tbl_ArqueoCajaChica_Comedor_obj.cs" />
+    <Compile Include="Catalogos\Cat_Area_obj.cs" />
+    <Compile Include="Catalogos\Cat_Cargo_obj.cs" />
+    <Compile Include="Catalogos\Cat_CategoriaProducto_obj.cs" />
+    <Compile Include="Catalogos\Cat_MedidaProducto_obj.cs" />
+    <Compile Include="Catalogos\Tbl_Proveedores_obj.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\BodegaCentral.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\clasificacionHuevo.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\DetalleEgreso.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\DetalleIngreso.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\EgresosDeHuevos.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\ingresoHuevos.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\InresosDeHuevos.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\salidasHuevos.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\tipoHuevo.cs" />
+    <Compile Include="ClasesModelos\BodegaPrincipal\tipoIngreso.cs" />
+    <Compile Include="ClasesModelos\Catalogos\Clientes_obj.cs" />
+    <Compile Include="ClasesModelos\Catalogos\Rutas_obj.cs" />
+    <Compile Include="ClasesModelos\Catalogos\Vendedores_obj.cs" />
+    <Compile Include="ClasesModelos\CatalogoxCliente_obj.cs" />
+    <Compile Include="ClasesModelos\Catalogo_Clientes.cs" />
+    <Compile Include="ClasesModelos\objUsuarios.cs" />
+    <Compile Include="Comedor\Control Comedor\loginUsuarioComedor_obj.cs" />
+    <Compile Include="Comedor\MenuDelDia_Obj.cs" />
+    <Compile Include="Comedor\Tbl_FaturaComedor_obj.cs" />
+    <Compile Include="egreso_InventarioComedor.cs" />
+    <Compile Include="Granja\AjusteInventarioLoteGranja_obj.cs" />
+    <Compile Include="Granja\AplicacionesMedicinas_obj.cs" />
+    <Compile Include="Granja\AplicacionesMedicinas_vista.cs" />
+    <Compile Include="Granja\AplicacionesTratamientos_obj.cs" />
+    <Compile Include="Granja\AplicacionesTratamientos_vista.cs" />
+    <Compile Include="Granja\Cat_CategoriaInsumosGranjaEngorde_obj.cs" />
+    <Compile Include="Granja\Cat_MediasInsumosGranja_obj.cs" />
+    <Compile Include="Granja\ConsumoAlimentos_vista.cs" />
+    <Compile Include="Granja\ControlAlimenticio_obj.cs" />
+    <Compile Include="Granja\IngresoLotes_Class.cs" />
+    <Compile Include="Granja\IngresoLote_obj.cs" />
+    <Compile Include="Granja\InsumoGranjaEncorde_vista.cs" />
+    <Compile Include="Granja\InventarioGaleras_obj.cs" />
+    <Compile Include="Granja\InventarioGaleras_vistaParametros.cs" />
+    <Compile Include="Granja\ParametrosDiarios_obj.cs" />
+    <Compile Include="Granja\ParametrosVistaRel.cs" />
+    <Compile Include="Granja\PersonalEnEntrada_obj.cs" />
+    <Compile Include="Granja\PreciosInsumoGranja_obj.cs" />
+    <Compile Include="Granja\PreciosInsumosGranja_vista.cs" />
+    <Compile Include="Granja\proveedoresAvesEngorde_obj.cs" />
+    <Compile Include="Granja\RegistroConsumoAlimentos_obj.cs" />
+    <Compile Include="Granja\RegistroInsumoGranjaLote_obj.cs" />
+    <Compile Include="Granja\RegistroInsumoGranja_vista.cs" />
+    <Compile Include="Granja\Tbl_InsumoGranjaEngorde_obj.cs" />
+    <Compile Include="Granja\TipoAlimentosEngorde_obj.cs" />
+    <Compile Include="ingresoInventarioComedor.cs" />
+    <Compile Include="ModuloLogistica\DespachoCombustible_obj.cs" />
+    <Compile Include="ModuloLogistica\DetalleDesapachoCombustible_obj.cs" />
+    <Compile Include="ModuloLogistica\DetalleIngresoCombustible_obj.cs" />
+    <Compile Include="ModuloLogistica\GaleriaImagenesPorVehiculo.cs" />
+    <Compile Include="ModuloLogistica\InventarioCombustible_obj.cs" />
+    <Compile Include="ModuloLogistica\NombreModelosCarros_lg_obj.cs" />
+    <Compile Include="ModuloLogistica\Proveedor_obj.cs" />
+    <Compile Include="ModuloLogistica\Sedes_lg_obj.cs" />
+    <Compile Include="ModuloLogistica\TipoCombustible_lg_obj.cs" />
+    <Compile Include="ModuloLogistica\TipoDespacho_obj.cs" />
+    <Compile Include="ModuloLogistica\Vehiculos_lg_obj.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\Catalogos\TipoHuevo_obj.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\DetalleHuevoProcesado_obj.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\DetalleIngresoHSC_obj.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\DetalleSalidaHuevoClasificado_obj.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\HuevoProcesado.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\ingresoInventario_HSC.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\inventarioHuevoSinClasificar.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\JaulasIngresoClasificadora_obj.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\SalidaHuevoClasificado_obj.cs" />
+    <Compile Include="ProduccionHuevos\Clasificadora\SalidaHuevoProcesado_obj.cs" />
+    <Compile Include="ProduccionHuevos\ControlUsuario_obj.cs" />
+    <Compile Include="ProduccionHuevos\Tbl_ProveedoresAves_obj.cs" />
+    <Compile Include="ProduccionPollos\Configuracion\Tbl_Broilers_Raza_obj.cs" />
+    <Compile Include="ProduccionPollos\Configuracion\Tbl_Galeras_obj.cs" />
+    <Compile Include="ProduccionPollos\Configuracion\Tbl_Granjas_obj.cs" />
+    <Compile Include="ProduccionPollos\Configuracion\Tbl_Mataderos_obj.cs" />
+    <Compile Include="ProduccionPollos\ControlLotes\ControlGaleras.cs" />
+    <Compile Include="ProduccionPollos\PlantasProcesadoras\PesoConjelado\PesoCortes.cs" />
+    <Compile Include="ProduccionPollos\PlantasProcesadoras\PesoConjelado\Tbl_PesoCortesDetalle_obj.cs" />
+    <Compile Include="ProduccionPollos\PlantasProcesadoras\PesoConjelado\Tbl_RubroAves_obj.cs" />
+    <Compile Include="ProduccionPollos\PlantasProcesadoras\resumendelDiaRemision.cs" />
+    <Compile Include="ProduccionPollos\PlantasProcesadoras\Tbl_CompraPollos_obj.cs" />
+    <Compile Include="ProduccionPollos\PlantasProcesadoras\Tbl_IngresoPesoVivo_Obj.cs" />
+    <Compile Include="ProduccionPollos\PlantasProcesadoras\Tbl_JavasEnviadas_obj.cs" />
+    <Compile Include="ProduccionPollos\PlantasProcesadoras\Tbl_ViajesRemisionGranja_obj.cs" />
+    <Compile Include="tazaCambio.cs" />
+    <Compile Include="Tbl_Comedor_Obj.cs" />
+    <Compile Include="DetalleFacturado.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Tbl_ConfiguracionesGenerales.cs" />
+    <Compile Include="Tbl_DetalleCompraFacturando.cs" />
+    <Compile Include="Tbl_DetalleSalida_Facturando.cs" />
+    <Compile Include="Tbl_Inventario_obj.cs" />
+    <Compile Include="Tbl_Producto_obj.cs" />
+    <Compile Include="Tbl_Trabajador_obj.cs" />
+    <Compile Include="test\pesosbascula.cs" />
+    <Compile Include="test\tbl_MataderoTest_obj.cs" />
+    <Compile Include="tiposAlertaCss_bstrap.cs" />
+    <Compile Include="util.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ayosabd.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>ayosabd.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ultil\ultil.csproj">
+      <Project>{a3b22939-b948-44c7-b7c7-95592936ec00}</Project>
+      <Name>ultil</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ayosabd.dbml.layout">
+      <DependentUpon>ayosabd.dbml</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

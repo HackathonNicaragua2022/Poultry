@@ -1,0 +1,45 @@
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\ultil.dll
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\ultil.pdb
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.pdfa.dll
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.xtra.dll
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\obj\Release\ultil.dll
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\obj\Release\ultil.pdb
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.dll
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.xml
+C:\Users\CBSHOP\OneDrive\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\obj\Release\ultil.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\ultil.dll
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\ultil.pdb
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.dll
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.pdfa.dll
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.xtra.dll
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.xml
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\obj\Release\ultil.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\obj\Release\ultil.dll
+C:\Users\MSI\Desktop\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\obj\Release\ultil.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\ultil.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\ultil.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\BouncyCastle.Crypto.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.pdfa.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.xtra.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\itextsharp.xml
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\obj\Release\ultil.csprojResolveAssemblyReference.cache
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\obj\Release\ultil.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\obj\Release\ultil.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\TC_ConsumoWEB_VB.dll
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\TC_ConsumoWEB_VB.pdb
+D:\Avicola Yema de Oro S.A\Aplicacion de ASP.NET\ayosa\ultil\bin\Release\TC_ConsumoWEB_VB.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\bin\Release\ultil.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\bin\Release\ultil.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\bin\Release\BouncyCastle.Crypto.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\bin\Release\itextsharp.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\bin\Release\itextsharp.pdfa.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\bin\Release\itextsharp.xtra.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\bin\Release\itextsharp.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\bin\Release\TC_ConsumoWEB_VB.pdb
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\bin\Release\TC_ConsumoWEB_VB.xml
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\obj\Release\ultil.csprojResolveAssemblyReference.cache
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\obj\Release\ultil.dll
+D:\Carpeta Personal\Hackathon 2022\Documentos Metaverso\Proyecto para hackathon\Poultry\ultil\obj\Release\ultil.pdb
