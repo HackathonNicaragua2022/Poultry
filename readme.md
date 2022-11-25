@@ -31,4 +31,4 @@ Algunos aspectos podrían comprarse por separado, lo que incrementaría las util
 
 > La rama se ocupara para subir los cambios del sitio landigPage para ofrecer servicios de la empresa a potenciales clientes.
 
-[img]https://i.imgur.com/M22pjje.png[/img]
+![Screenshot](https://i.imgur.com/M22pjje.png)
