@@ -15,6 +15,20 @@ Tales herramientas se pueden enumeras de la siguiente manera:
 > La metodología del negocio, es vender una cuenta a nivel empresarial con pagos mensuales o anuales, para el uso de todas estas características.
 Algunos aspectos podrían comprarse por separado, lo que incrementaría las utilidades de nosotros como empresa.
 
-> Se estan haciendo commit a la rama AndroidApp
+# RAMA AppAndroid
 
-> Se estan haciendo commit a la rama AspApp
+> En esta rama subiremos la App Android, en esta se encargara de conectarse a una bascula por medio de UART o bien SERIAL, para obtener el pesaje de basculas directamente y posteriormeten enviarlo al servidor usando bien un metodo POST REGEST, o enlaces con parametros.
+
+# RAMA AppAspNet
+ 
+ > La rama se usara para subir el proyecto desarrollado en la plataforma de Asp web forms, esta es la app principal de la empresa, su principal funcion es el control de las demas aplicaciones, ofreciendo servicios web service y se dashboard.
+
+# RAMA IOT Contador y lectura de basculas en silos
+
+> Subiremos el desarrollo del codigo para controlar un dispositivo IOT como arduino y Esp32 y Esp8266, este codigo se encargaria del conteo de pollos en la linea de produccion y de la lectura de pesos de concentrado en los silos.
+
+# RAMA LandigPage
+
+> La rama se ocupara para subir los cambios del sitio landigPage para ofrecer servicios de la empresa a potenciales clientes.
+
+[img]https://i.imgur.com/M22pjje.png[/img]
